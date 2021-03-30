@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BAFFDF"
+    tools:context=".PageActivity">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="406dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView4"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginRight="2dp"
+        android:fontFamily="@font/abril_fatface"
+        android:gravity="center"
+        android:text="TextView"
+        android:textSize="24sp" />
+
+    <ListView
+        android:id="@+id/fillerList"
+        android:layout_width="match_parent"
+        android:layout_height="388dp"
+        android:layout_below="@+id/toggleButton"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:listSelector="@android:color/transparent"
+        android:visibility="invisible" />
+
+    <ListView
+        android:id="@+id/animeList"
+        android:layout_width="match_parent"
+        android:layout_height="387dp"
+        android:layout_below="@+id/toggleButton"
+        android:layout_marginTop="10dp"
+        android:listSelector="@android:color/transparent"
+        android:visibility="visible">
+
+    </ListView>
+
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="162dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgDetail"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="127dp"
+        android:layout_marginLeft="127dp"
+        android:layout_marginTop="15dp"
+        android:background="#ADDBFF"
+        android:onClick="toggled"
+        android:text="ToggleButton"
+        android:textOff="CANON"
+        android:textOn="FILLER"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imgDetail"
+        android:layout_width="150dp"
+        android:layout_height="154dp"
+        android:layout_below="@+id/textView5"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="135dp"
+        android:layout_marginLeft="135dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginEnd="126dp"
+        android:layout_marginRight="126dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="253dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="67dp"
+        android:layout_marginRight="67dp"
+        android:fontFamily="@font/caesar_dressing"
+        android:text="ANIME FILLER APP"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+</RelativeLayout>

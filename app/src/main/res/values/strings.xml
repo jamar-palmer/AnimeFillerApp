@@ -1,0 +1,16 @@
+<resources>
+    <color name="orange">#FFFF9800</color>
+    <string name="app_name">Anime Filler App</string>
+    <string name="btnMain">LIST OF SERIES</string>
+    <string name="txt1">POPULAR SERIES</string>
+    <string name="txt2">LATEST UPDATE - COMING SOON</string>
+
+    <string-array name="series">
+        <item>Naruto</item>
+        <item>My Hero Academia</item>
+        <item>One Piece</item>
+        <item>Dragon Ball Z</item>
+        <item>Bleach</item>
+        <item>Black Clover</item>
+    </string-array>
+</resources>

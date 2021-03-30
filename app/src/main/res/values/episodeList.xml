@@ -1,0 +1,2218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="NarutoCanon">
+        <item>Enter: Naruto Uzumaki!</item>
+        <item>My Name is Konohamaru!</item>
+        <item>Sasuke and Sakura: Friends or Foes?</item>
+        <item>Pass or Fail: Survival Test</item>
+        <item>You Failed! Kakashi\'s Final Decision</item>
+        <item>A Dangerous Mission! Journey to the Land of Waves!</item>
+        <item>The Assassin of the Mist!</item>
+        <item>The Oath of Pain</item>
+        <item>Kakashi: Sharingan Warrior</item>
+        <item>The Forest of Chakra</item>
+        <item>The Land Where a Hero Once Lived</item>
+        <item>Battle on the Bridge! Zabuza Returns!!</item>
+        <item>Haku\'s Secret Jutsu: Crystal Ice Mirrors</item>
+        <item>The Number One Hyperactive, Knucklehead Ninja Joins the Fight!!</item>
+        <item>Zero Visibility: The Sharingan Shatters</item>
+        <item>The Broken Seal</item>
+        <item>White Past: Hidden Ambition</item>
+        <item>The Weapons Known as Shinobi</item>
+        <item>The Demon in the Snow</item>
+        <item>A New Chapter Begins: The Chunin Exam!</item>
+        <item>Identify Yourself: Powerful New Rivals</item>
+        <item>Chunin Challenge: Rock Lee vs. Sasuke!</item>
+        <item>Genin Takedown! All Nine Rookies Face Off!</item>
+        <item>Start Your Engines: The Chunin Exam Begins!</item>
+        <item>The Tenth Question: All or Nothing!</item>
+        <item>The Chunin Exam Stage 2: The Forest of Death</item>
+        <item>Eat or be Eaten: Panic in the Forest</item>
+        <item>Naruto\'s Counterattack: Never Give In!</item>
+        <item>The Sharingan Revived: Dragon-Flame Jutsu!</item>
+        <item>Bushy Brow\'s Pledge: Undying Love and Protection!</item>
+        <item>Sakura Blossoms!</item>
+        <item>Battle Formation: Ino-Shika-Cho!</item>
+        <item>Akamaru Trembles: Gaara\'s Cruel Strength!</item>
+        <item>The Scroll\'s Secret: No Peeking Allowed</item>
+        <item>Clone vs. Clone: Mine are Better than Yours!</item>
+        <item>Surviving the Cut! The Rookie Nine Together Again!</item>
+        <item>Narrowing the Field: Sudden Death Elimination!</item>
+        <item>Bushy Brow\'s Jealousy: Lions Barrage Unleashed!</item>
+        <item>Kakashi and Orochimaru: Face-to-Face!</item>
+        <item>Kunoichi Rumble: The Rivals Get Serious!</item>
+        <item>The Ultimate Battle: Cha!</item>
+        <item>Killer Kunoichi and a Shaky Shikamaru</item>
+        <item>Akamaru Unleashed! Who\'s Top Dog Now?</item>
+        <item>Surprise Attack! Naruto\'s Secret Weapon!</item>
+        <item>Byakugan Battle: Hinata Grows Bold!</item>
+        <item>A Failure Stands Tall!</item>
+        <item>Gaara vs. Rock Lee: The Power of Youth Explodes!</item>
+        <item>Lee\'s Hidden Strength: Forbidden Secret Jutsu!</item>
+        <item>The Fifth Gate: A Splendid Ninja is Born</item>
+        <item>A Shadow in Darkness: Danger Approaches Sasuke</item>
+        <item>Ebisu Returns: Naruto\'s Toughest Training Yet!</item>
+        <item>Long Time No See: Jiraiya Returns!</item>
+        <item>The Summoning Jutsu: Wisdom of the Toad Sage!</item>
+        <item>A Feeling of Yearning, A Flower Full of Hope</item>
+        <item>Live or Die: Risk it All to Win it All!</item>
+        <item>He Flies! He Jumps! He Lurks! Chief Toad Appears!</item>
+        <item>Hospital Besieged: The Evil Hand Revealed!</item>
+        <item>The Final Rounds: Rush to the Battle Arena!</item>
+        <item>Byakugan vs. Shadow Clone</item>
+        <item>Ultimate Defense: Zero Blind Spot!</item>
+        <item>A Failure\'s True Power</item>
+        <item>Hit it or Quit it: The Final Rounds Get Complicated!</item>
+        <item>Zero Motivation: The Guy with Cloud Envy!</item>
+        <item>Dancing Leaf, Squirming Sand</item>
+        <item>Bushy Brow\'s Jutsu: Sasuke Style!</item>
+        <item>Late for the Show, But Ready to Go! The Ultimate Secret Technique is Born!</item>
+        <item>Zero Hour! The Destruction of the Hidden Leaf Village Begins!</item>
+        <item>Village in Distress: A New A-Ranked Mission!</item>
+        <item>A Shirker\'s Call to Action: A Layabout No More!</item>
+        <item>An Unrivaled Match: Hokage Battle Royale!</item>
+        <item>A Mistake from the Past: A Face Revealed!</item>
+        <item>Forbidden Secret Technique: Reaper Death Seal!</item>
+        <item>Astonishing Truth! Gaara\'s Identity Emerges!</item>
+        <item>Sasuke\'s Decision: Pushed to the Edge!</item>
+        <item>Assassin of the Moonlit Night</item>
+        <item>Light vs. Dark: The Two Faces of Gaara</item>
+        <item>Naruto\'s Ninja Handbook</item>
+        <item>Beyond the Limit of Darkness and Light</item>
+        <item>The Third Hokage, Forever&#8230;</item>
+        <item>Return of the Morning Mist</item>
+        <item>Eye to Eye: Sharingan vs. Sharingan!</item>
+        <item>Jiraiya: Naruto\'s Potential Disaster!</item>
+        <item>Roar, Chidori! Brother vs. Brother!</item>
+        <item>Hate Among the Uchihas: The Last of the Clan!</item>
+        <item>A New Training Begins: I Will Be Strong!</item>
+        <item>Keep on Training: Pop Goes the Water Balloon!</item>
+        <item>Focal Point: The Mark of the Leaf</item>
+        <item>An Impossible Choice: The Pain Within Tsunade\'s Heart</item>
+        <item>Unforgivable! A Total Lack of Respect!</item>
+        <item>Inheritence! The Necklace of Death!</item>
+        <item>A Dubious Offer! Tsunade\'s Choice!</item>
+        <item>Breakdown! The Deal is Off!</item>
+        <item>Attack! Fury of the Rasengan!</item>
+        <item>The Fifth Hokage! A Life on the Line!</item>
+        <item>Deadlock! Sannin Showdown!</item>
+        <item>Tsunade\'s Warning: Ninja No More!</item>
+        <item>The Will of Fire Still Burns!</item>
+        <item>Sensei and Student: The Bond of the Shinobi</item>
+        <item>The Battle Begins: Naruto vs. Sasuke</item>
+        <item>Bitter Rivals and Broken Bonds</item>
+        <item>An Invitation from the Sound</item>
+        <item>Formation! The Sasuke Retrieval Squad</item>
+        <item>Sound vs. Leaf</item>
+        <item>Squad Mutiny: Everything Falls Apart!</item>
+        <item>Full Throttle Power! Choji, Ablaze!</item>
+        <item>Good-bye Old Friend&#8230;! I\'ll Always Believe in You!</item>
+        <item>Your Opponent Is Me!</item>
+        <item>360 Degrees of Vision: The Byakugan\'s Blind Spot</item>
+        <item>Losing is Not an Option!</item>
+        <item>The Vessel Arrives Too Late</item>
+        <item>Miscalculation: A New Enemy Appears!</item>
+        <item>Roar and Howl! The Ultimate Tag Team</item>
+        <item>To Each His Own Battle</item>
+        <item>Fakeout: Shikamaru\'s Comeback!</item>
+        <item>The Leaf\'s Handsome Devil!</item>
+        <item>The Beast Within</item>
+        <item>The Sand Shinobi: Allies of the Leaf</item>
+        <item>Showdown: Gaara vs. Kimimaro!</item>
+        <item>Vengeful Strike! The Bracken Dance</item>
+        <item>A Cry on Deaf Ears</item>
+        <item>Brothers: Distance Among the Uchiha</item>
+        <item>Father and Son, the Broken Crest</item>
+        <item>The Secrets of the Mangekyo Sharingan!</item>
+        <item>For a Friend</item>
+        <item>A Plea From a Friend</item>
+        <item>The End of Tears</item>
+        <item>The Promise That Could Not Be Kept</item>
+        <item>Sakura\'s Determination</item>
+        <item>The Three Villains from the Maximum Security Prison</item>
+        <item>Departure</item>
+    </string-array>
+    <string-array name="NarutoFiller">
+        <item>Special Report: Live from the Forest of Death!</item>
+        <item>Kidnapped! Naruto\'s Hot Spring Adventure!</item>
+        <item>Gotta See! Gotta Know! Kakashi-Sensei\'s True Face!</item>
+        <item>Mission: Help an Old Friend in the Land of Tea</item>
+        <item>The Race is on! Trouble on the High Seas!</item>
+        <item>Run Idate Run! Nagi Island Awaits!</item>
+        <item>A Fierce Battle of Rolling Thunder!</item>
+        <item>The Last Leg: A Final Act of Desperation</item>
+        <item>Deep Cover!? A Super S-Ranked Mission!</item>
+        <item>A Town of Outlaws, the Shadow of the Fuma Clan</item>
+        <item>Pure Betrayal, and a Fleeting Plea!</item>
+        <item>Pure Terror! The House of Orochimaru</item>
+        <item>Two Heartbeats: Kabuto\'s Trap</item>
+        <item>Tonton! I\'m Counting on You!</item>
+        <item>A New Squad! Two People and a Dog?!</item>
+        <item>A New Formation: Ino-Shika-Cho!</item>
+        <item>Orochimaru\'s Shadow</item>
+        <item>A Clash of Fate: You Can\'t Bring Me Down</item>
+        <item>Search for the Rare Bikochu Beetle</item>
+        <item>What\'s the Difference? Don\'t All Insects Look Alike?</item>
+        <item>A Battle of Bugs: The Deceivers and the Deceived</item>
+        <item>Blaze Away Byakugan: This Is My Ninja Way</item>
+        <item>Funeral March for the Living</item>
+        <item>A Lesson Learned: The Iron Fist of Love</item>
+        <item>The Enemy of the Byakugan</item>
+        <item>The Dark Creeping Clouds</item>
+        <item>Raiga\'s Counterattack</item>
+        <item>Run! The Curry of Life</item>
+        <item>Follow My Lead! The Great Survival Challenge</item>
+        <item>ounty Hunter from the Wilderness</item>
+        <item>Hunt or Be Hunted?! Showdown at the O.K. Temple!</item>
+        <item>The Appearance of Strange Visitors</item>
+        <item>The Cursed Warrior</item>
+        <item>The Tactician\'s Intent</item>
+        <item>Too Late for Help</item>
+        <item>The Death of Naruto</item>
+        <item>When Time Stands Still</item>
+        <item>When Egrets Flap Their Wings</item>
+        <item>Mix It, Stretch It, Boil It Up! Burn, Copper Pot, Burn!</item>
+        <item>Remembrance: The Lost Page</item>
+        <item>The Closed Door</item>
+        <item>Infiltration: The Set-Up!</item>
+        <item>Despair: A Fractured Heart</item>
+        <item>The Battle at Sea: The Power Unleashed!</item>
+        <item>Impossible! Celebrity Ninja Art - Money Style Jutsu!</item>
+        <item>The Treasure Hunt is On!</item>
+        <item>Run, Dodge, Zigzag! Chase or Be Chased!</item>
+        <item>Please, Mr. Postman!</item>
+        <item>Encounter! The Boy with a Star\'s Name</item>
+        <item>The Remembered Lullaby</item>
+        <item>Hidden Jutsu: The Price of The Ninja Art: Kujaku</item>
+        <item>Hoshikage, The Buried Truth</item>
+        <item>Reunion, The Remaining time</item>
+        <item>The Star\'s Radiance</item>
+        <item>Kiba\'s Long Day!</item>
+        <item>A Legend from the Hidden Leaf: The Onbaa!</item>
+        <item>Laughing Shino</item>
+        <item>Open for Business! The Leaf Moving Service</item>
+        <item>Mystery of the Targeted Merchants</item>
+        <item>A Limitless Supply of Ninja Tools</item>
+        <item>The Byakugan Sees the Blind Spot</item>
+        <item>Forecast: Death! Cloudy with Chance of Sun</item>
+        <item>Ino Screams! Chubby Paradise!</item>
+        <item>Viva Dojo Challenge! Youth Is All About Passion!</item>
+        <item>The Mysterious Curse of the Haunted Castle</item>
+        <item>The Third Super-Beast!</item>
+        <item>Hot-Blooded Confrontation: Student vs. Sensei</item>
+        <item>Crisis! The Hidden Leaf 11 Gather!</item>
+        <item>The ANBU Gives Up? Naruto\'s Recollection</item>
+        <item>The Missed Target</item>
+        <item>The Powerful Helper</item>
+        <item>Multiple Traps! Countdown to Destruction</item>
+        <item>The Top 5 Ninja Battles</item>
+        <item>Kurenai\'s Decision, Squad 8 Left Behind</item>
+        <item>Yakumo\'s Sealed Ability</item>
+        <item>Kurenai\'s Top-Secret Mission: The Promise With the Third Hokage</item>
+        <item>Genjutsu or Reality?</item>
+        <item>The Supposed Sealed Ability</item>
+        <item>The Weight of the Prized Artifact!</item>
+        <item>The Enemy: Ninja Dropouts</item>
+        <item>The Bewildering Forest</item>
+        <item>Memory of Flames</item>
+        <item>To Each His Own Path</item>
+        <item>Vanished Memories</item>
+        <item>Bringing Back Reality</item>
+        <item>A Past to Be Erased</item>
+        <item>The Targeted Shukaku</item>
+        <item>Sand Alliance with the Leaf Shinobi</item>
+        <item>The Counterattack!</item>
+        <item>The Ultimate Weapon Reborn</item>
+    </string-array>
+
+    <string-array name="MyHeroCanon">
+        <item>Izuku Midoriya: Origin</item>
+        <item>What It Takes to Be a Hero</item>
+        <item>Roaring Muscles</item>
+        <item>Start Line</item>
+        <item>What I Can Do for Now</item>
+        <item>Rage, You Damn Nerd</item>
+        <item>Deku vs. Kacchan</item>
+        <item>Bakugo\'s Start Line</item>
+        <item>Yeah, Just Do Your Best, Iida!</item>
+        <item>Encounter With the Unknown</item>
+        <item>Game Over</item>
+        <item>All Might</item>
+        <item>Upon Each of Their Hearts</item>
+        <item>That\'s the Idea, Ochaco</item>
+        <item>Roaring Sports Festival</item>
+        <item>In Their Own Quirky Ways</item>
+        <item>Strategy, Strategy, Strategy</item>
+        <item>Cavalry Battle Finale</item>
+        <item>The Boy Born With Everything</item>
+        <item>Victory or Defeat</item>
+        <item>Battle on, Challengers!</item>
+        <item>Bakugo vs. Uraraka</item>
+        <item>Shoto Todoroki: Origin</item>
+        <item>Fight on, Iida</item>
+        <item>Todoroki vs. Bakugo</item>
+        <item>Time to Pick Some Names</item>
+        <item>Bizarre! Gran Torino Appears</item>
+        <item>Midoriya and Shigaraki</item>
+        <item>Hero Killer: Stain vs. U.A. Students</item>
+        <item>Climax</item>
+        <item>he Aftermath of "Hero Killer: Stain"</item>
+        <item>Listen Up!! A Tale From the Past</item>
+        <item>Gear up for the Final Exams</item>
+        <item>aoyorozu: Rising</item>
+        <item>Stripping the Varnish</item>
+        <item>Katsuki Bakugo: Origin</item>
+        <item>Encounter</item>
+        <item>Wild, Wild Pussycats</item>
+        <item>Kota</item>
+        <item>My Hero</item>
+        <item>Drive It Home, Iron Fist!!!</item>
+        <item>Roaring Upheaval</item>
+        <item>What a Twist!</item>
+        <item>From Iida to Midoriya</item>
+        <item>All For One</item>
+        <item>Symbol of Peace</item>
+        <item>One For All</item>
+        <item>End of the Beginning, Beginning of the End</item>
+        <item>Moving Into Dorms</item>
+        <item>Create Those Ultimate Moves</item>
+        <item>The Test</item>
+        <item>Shiketsu High Lurking</item>
+        <item>Class 1-A</item>
+        <item>RUSH!</item>
+        <item>Rescue Exercises</item>
+        <item>What\'s the Big Idea?</item>
+        <item>A Talk About Your Quirk</item>
+        <item>Deku vs. Kacchan 2</item>
+        <item>A Season for Encounters</item>
+        <item>Unrivaled</item>
+        <item>Overhaul</item>
+        <item>Boy Meets&#8230;</item>
+        <item>Fighting Fate</item>
+        <item>Let\'s Go, Gutsy Red Riot</item>
+        <item>An Unpleasant Talk</item>
+        <item>GO!!</item>
+        <item>Suneater of the Big Three</item>
+        <item>Red Riot</item>
+        <item>Temp Squad</item>
+        <item>Lemillion</item>
+        <item>Unforeseen Hope</item>
+        <item>Infinite 100%</item>
+        <item>Bright Future</item>
+        <item>Smoldering Flames</item>
+        <item>Win Those Kids\' Hearts</item>
+        <item>Relief for License Trainees</item>
+        <item>School Festival</item>
+        <item>Prepping for the School Festival Is the Funnest Part</item>
+        <item>Golden Tips Imperial</item>
+        <item>Deku vs. Gentle Criminal</item>
+        <item>School Festival Start!!</item>
+        <item>Let It Flow! School Festival!</item>
+        <item>Japanese Hero Billboard Chart</item>
+        <item>His Start</item>
+        <item>Vestiges</item>
+    </string-array>
+
+    <string-array name="MyHeroFiller">
+        <item>Everyone\'s Internships</item>
+        <item>Game Start</item>
+        <item>Special Episode: Save the World With Love!</item>
+        <item>The Scoop on U.A. Class 1-A</item>
+        <item>All Hands on Deck! Class 1-A</item>
+    </string-array>
+
+    <string-array name="BleachFiller">
+        <item>Miracle! The Mysterious New Hero </item>
+        <item>The Reviving Lion </item>
+        <item>New School Term, Renji Has Come to the Material World?! </item>
+        <item>Creeping Terror, the Second Victim </item>
+        <item>Breakthrough! The Trap Hidden in the Labyrinth </item>
+        <item>Death Game! The Missing Classmate </item>
+        <item>True Identity of the Devil, the Secret which Is Revealed </item>
+        <item>Bounts! The Soul Hunters! </item>
+        <item>Rukia\'s Return! Revival of the Substitute Team! </item>
+        <item>The Moment of Collision! An Evil Hand Draws Near to the Quincy </item>
+        <item>Water Attack! Escape from the Shutdown Hospital </item>
+        <item>Gathering Bounts! The Man Who Makes His Move </item>
+        <item>Memories of an Eternally Living Clan </item>
+        <item>Earth-Shattering Event at 11th Squad! The Shinigami Who Rises Again </item>
+        <item>Crashing Force! Fried vs. Zangetsu </item>
+        <item>Unfading Grudge! The Shinigami whom Kenpachi Killed </item>
+        <item>Shocking Revelations for the 13 Divisions!! The Truth Buried in History </item>
+        <item>Yoshino\'s Decision of Death </item>
+        <item>Assault from a Formidable Enemy! A Tiny Final Line of Defense?! </item>
+        <item>Hitsugaya Moves! The Attacked City </item>
+        <item>Ichigo vs. Dalk! Appearance of the Faded Darkness </item>
+        <item>Grey Shadow, the Secret of the Dolls </item>
+        <item>Dissension in the Substitute Team? Rukia\'s Betrayal </item>
+        <item>Deadly Battle of Tears! Rukia vs. Orihime </item>
+        <item>Rangiku Dances! Slice the Invisible Enemy! </item>
+        <item>Byakuya Is Summoned! The Gotei 13 Start to Move </item>
+        <item>Annihilation of the Lieutenants!? Trap in the Underground Cave </item>
+        <item>Rematch?! Ishida vs. Nemu </item>
+        <item>Renji Abarai, Bankai of the Soul! </item>
+        <item>Shinigami and Quincy, the Reviving Power </item>
+        <item>Invasion of the Shinigami World, Again </item>
+        <item>The Bount Assault! The Gotei 13 of Destructive Earthquake </item>
+        <item>Hitsugaya\'s Decision! The Clash Approaches </item>
+        <item>Byakuya Takes the Field! Dance of the Wind-Splitting Cherry Blossoms </item>
+        <item>Ichigo, Byakuya, Kariya, The Battle of the Three Extremes! </item>
+        <item>Hitsugaya Strikes! Slice the Enemy in the Middle of the Forest </item>
+        <item>Clash! Kenpachi Zaraki vs. Maki Ichinose </item>
+        <item>Shinigami vs. Shinigami! The Uncontrollable Power </item>
+        <item>Suì-Fēng Dies? The Last of the Special Forces </item>
+        <item>Mayuri\'s Bankai!! Sawatari: Clash of the Demon </item>
+        <item>The Last Quincy! The Exploding Power </item>
+        <item>Ishida, Exceeding the Limits to Attack! </item>
+        <item>10th Division\'s Death Struggle! The Release of Hyōrinmaru </item>
+        <item>Kariya! Countdown to the Detonation </item>
+        <item>Life and Revenge! Ishida, the Ultimate Choice </item>
+        <item>The Swung-Down Edge! The Moment of Ruin </item>
+        <item>The Wailing Bount! The Last Clash </item>
+        <item>The Nightmare Arrancar! Team Hitsugaya moves out </item>
+        <item>The Swooping Descent of the Dark Emissary! The Propagation of Malice </item>
+        <item>The Invisible Enemy! Hitsugaya\'s Merciless Decision </item>
+        <item>Rangiku\'s Tears, the Sorrowful Parting of Brother and Sister </item>
+        <item>Hitsugaya, Karin, and Soccer Ball </item>
+        <item>Ikkaku: The Hot-Blooded Kendo Tale </item>
+        <item>The Beautiful Patissier, Yumichika! </item>
+        <item>Kon is Deceived! Rangiku on the Lookout&#8230; </item>
+        <item>Civil War in Hueco Mundo! Ulquiorra\'s Death </item>
+        <item>The Malicious Battle, Aizen\'s Trap </item>
+        <item>Forest of Menos! Search for the Missing Rukia </item>
+        <item>Ashido, The Soul Reaper Who Came from the Past </item>
+        <item>Through the Crumbling Forest, a Million Menos </item>
+        <item>The New Captain Appears! His Name Is Shūsuke Amagai </item>
+        <item>New Development, the Dangerous Transfer Student Appears! </item>
+        <item>Desperate Struggle Under the Moonlit Night, the Mysterious Assassin and Zanpakutō </item>
+        <item>Kenryū, the Profusion of Blooming Crimson Flowers </item>
+        <item>Kifune Goes to War! The Violent Wind that Rages </item>
+        <item>he Appearance of the Great Evil! The Darkness in the House of Kasumiōji </item>
+        <item>Break the Mirror\'s Boundary! Ichigo\'s Captivity </item>
+        <item>The Revenging Assassin, Ichigo is Targeted </item>
+        <item>Mystery! The Sword-Consuming Assassin </item>
+        <item>The Reversal of Rukia! The Rampaging Blade </item>
+        <item>The Nightmare Which is Shown, Ichigo\'s Inside the Mirror </item>
+        <item>Confrontation!? Amagai vs. Gotei 13 </item>
+        <item>The Princess\'s Decision, the Sorrowful Bride </item>
+        <item>The 2nd Division Sorties! Ichigo is Surrounded </item>
+        <item>Amagai\'s True Strength, the Released Zanpakuto！ </item>
+        <item>The Darkness Which Moves! Kifune\'s True Colors </item>
+        <item>Kira and Kifune, Offense and Defense of the 3rd Division </item>
+        <item>Ice and Flame! Fierce Fight of Amagai vs. Hitsugaya </item>
+        <item>Sortie Orders! Suppress the House of Kasumiōji </item>
+        <item>Ichigo Rages! The Assassin\'s Secret </item>
+        <item>Duel! Amagai vs. Ichigo </item>
+        <item>The Fallen Shinigami\'s Pride </item>
+`       <item>Ichigo\'s Seppuku Persuasion Strategy ☆ </item>
+        <item>Thump! A Kemari Tournament Filled with Hollows </item>
+        <item>The Konso Cop Karakuraiser is Born </item>
+        <item>Karakuraiser\'s Last Day </item>
+        <item>Wonderful Error </item>
+        <item>Summer! Sea! Swimsuit Festival!! </item>
+        <item>Cry of the Soul? The Rug Shinigami is Born! </item>
+        <item>A New Enemy! The Materialization of Zanpakutō </item>
+        <item>Byakuya, Disappearing with the Cherry Blossoms </item>
+        <item>Sode no Shirayuki vs. Rukia! Confused Heart </item>
+        <item>Zangetsu Becomes an Enemy </item>
+        <item>Renji Surprised?! The Two Zabimarus </item>
+        <item>Clash! Hisagi vs. Kazeshini </item>
+        <item>Release! The New Getsuga Tenshō </item>
+       <item> </item>
+        <item>Suì-Fēng, Surrounding the Zanpakutō </item>
+        <item> </item>
+        <item>Friendship? Hatred? Haineko and Tobiume </item>
+        <item> </item>
+        <item>The Awakening Hyōrinmaru! Hitsugaya\s Fierce Fight </item>
+        <item> </item>
+        <item>Byakuya\'s Betrayal </item>
+        <item> </item>
+        <item>For the Sake of Pride! Byakuya vs. Renji </item>
+        <item> </item>
+        <item>Shinigami and Zanpakutō, Total Sortie </item>
+       <item> </item>
+        <item>One-to-One Fight! Ichigo vs. Senbonzakura </item>
+        <item> </item>
+        <item>The Long Awaited&#8230; Kenpachi Appears! </item>
+        <item> </item>
+        <item>Pursue Byakuya! The Confused Gotei Divisions </item>
+       <item> </item>
+        <item>Special Mission! Rescue Captain Commander Yamamoto! </item>
+        <item> </item>
+        <item>Deceived Shinigami! The World Collapse Crisis </item>
+        <item> </item>
+        <item>Dragon of Ice and Dragon of Flame! The Strongest Showdown! </item>
+        <item> </item>
+        <item>Senbonzakura\'s Bankai! Offense and Defense of the Living World </item>
+       <item> </item>
+        <item>That Man, for the Sake of the Kuchiki </item>
+       <item> </item>
+        <item>Dark History! The Worst Shinigami Is Born </item>
+        <item> </item>
+        <item>Byakuya, the Truth Behind His Betrayal </item>
+
+        <item>Muramasa\'s True Identity Revealed </item>
+
+        <item>Byakuya and Renji, the 6th Division Returns </item>
+        <item> </item>
+        <item>Final Chapter - Zanpakutō The Alternate Tale </item>
+        <item> </item>
+        <item>The Angered Byakuya! The Collapse of the Kuchiki House </item>
+
+        <item>A New Enemy! The True Nature of the Sword Fiends </item>
+
+        <item>Stray Snake, Tortured Monkey </item>
+        <item>Terror! The Monster That Lurks Underground </item>
+
+        <item>Conclusion!? Hisagi vs. Kazeshini </item>
+        <item>The Person with the Unknown Ability! Orihime Is Targeted </item>
+
+        <item>Haineko Cries! The Tragic Sword Fiend </item>
+
+        <item>Imprisonment?! Senbonzakura and Zabimaru </item>
+
+        <item>Battle of the Females? Katen Kyōkotsu vs. Nanao! </item>
+
+        <item>Evolution?! The Menace of the Final Sword Fiend </item>
+        <item>Side Story! Ichigo and the Magic Lamp </item>
+        <item>Film! Festival! Shinigami Film Festival! </item>
+
+        <item>Theatre Opening Commemoration! The Hell Verse: Prologue </item>
+        <item>Real World and Shinigami! The New Year Special! </item>
+
+        <item>Another Side Story! This Time\'s Enemy Is a Monster!? </item>
+
+        <item>Delusion Roars! Hisagi, Towards the Hot Springs Inn! </item>
+        <item>The Soul Detective: Karakuraiser Takes Off Again! </item>
+
+        <item>Inauguration! The Brand New 2nd Division Captain! </item>
+
+        <item>The Man Who Risks His Life in the 11th Division! </item>
+
+        <item>Kon saw it! The Secret of a Beautiful Office Lady </item>
+
+        <item>Yachiru\'s friend! The Shinigami of Justice Appears! </item>
+        <item>Toshirō Hitsugaya\'s Holiday! </item>
+
+        <item>Unusual Incident in Seireitei?! Gotei 13 Invading Army Arc! </item>
+
+        <item>Renji vs. Rukia?! Battle With Comrades! </item>
+
+        <item>Ichigo\'s Capture Net! Escape From Soul Society! </item>
+
+        <item>Gotei 13, Gathering in the Real World! </item>
+
+        <item>Showdown of Mutual Self, Ikkaku vs. Ikkaku! </item>
+
+        <item>Clash! Rukia vs. Rukia! </item>
+
+        <item>Protect Ichigo! Nozomi\'s Determination </item>
+
+        <item>Recapture Seireitei! The Captains Move! </item>
+
+        <item>For the Sake of the Believers! Byakuya vs. Hitsugaya! </item>
+
+        <item>The Two Hinamori, Hitsugaya\'s Resolution </item>
+
+        <item>Pride of the Kuchiki Family! Byakuya vs. Byakuya! </item>
+
+        <item>Defeat Kageroza! Shinigami, All-Out War! </item>
+
+        <item>The Forbidden Research&#8230;Nozomi\'s Hidden Secret! </item>
+
+        <item>I Want to Live&#8230;! Nozomi\'s Zanpakutō </item>
+
+        <item>For the Sake of Fighting! The Awakened Nozomi! </item>
+
+        <item>The Most Evil Reigai, Appearing in the Real World! </item>
+        <item>Destroy Nozomi!? Genryusai\'s Decision! </item>
+        <item>The Depleting Reiatsu! Ichigo, Death Struggle of the Soul! </item>
+        <item>Hiding in the Dangai? Another Ichigo?! </item>
+
+        <item>Pursue Kageroza! Technological Development Department, Infiltration! </item>
+
+        <item>The Developer of the Modified Souls </item>
+
+        <item>Kon\'s Thoughts, Nozomi\'s Thoughts </item>
+
+        <item>Protect Ichigo! The Bonds of Friends! </item>
+
+        <item>Reigai vs. Original, The Fierce Fighting for Gambled Pride! </item>
+
+        <item>Invading Army Arc, Final Conclusion! </item>
+        <item>Shinigami at War! New Year in Seireitei Special! </item>
+
+    </string-array>
+
+    <string-array name="OnePieceCanon">
+     <item>  I\'m Luffy! The Man Who\s Gonna Be King of the Pirates!</item>
+
+     <item>  Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!</item>
+
+     <item>  Morgan vs. Luffy! Who\'s the Mysterious Pretty Girl?</item>
+
+     <item>  Luffy\'s Past! Enter Red-Haired Shanks!</item>
+
+     <item>  A Terrifying Mysterious Power! Captain Buggy, the Clown Pirate!</item>
+
+     <item>  Desperate Situation! Beast Tamer Mohji vs. Luffy!</item>
+
+     <item>  Epic Showdown! Swordsman Zoro vs. Acrobat Cabaji!</item>
+
+     <item>  Who Is the Victor? Devil Fruit Power Showdown!</item>
+
+     <item>  The Honorable Liar? Captain Usopp!</item>
+
+     <item>  The Weirdest Guy Ever! Jango the Hypnotist!</item>
+
+     <item>  Expose the Plot! Pirate Butler, Captain Kuro!</item>
+
+     <item>  Clash With the Black Cat Pirates! The Great Battle on the Slope!</item>
+
+     <item>  The Terrifying Duo! Meowban Brothers vs. Zoro!</item>
+
+     <item>  Luffy Back in Action! Miss Kaya\'s Desperate Resistance!</item>
+
+     <item>  Beat Kuro! Usopp the Man\'s Tearful Resolve!</item>
+
+     <item>  Protect Kaya! The Usopp Pirates\' Great Efforts!</item>
+
+     <item>  Anger Explosion! Kuro vs. Luffy! How It Ends!</item>
+
+     <item>  You\'re the Weird Creature! Gaimon and His Strange Friends!</item>
+     <item>  The Three-Sword Style\'s Past! Zoro and Kuina\'s Vow!</item>
+     <item>  Famous Cook! Sanji of the Sea Restaurant!</item>
+
+     <item>  Unwelcome Customer! Sanji\'s Food and Ghin\'s Debt!</item>
+     <item>  The Strongest Pirate Fleet! Commodore Don Krieg!</item>
+
+     <item>  Protect Baratie! The Great Pirate, Red Foot Zeff!</item>
+     <item>  Hawk-Eye Mihawk! The Great Swordsman Zoro Falls at Sea!</item>
+     <item>  The Deadly Foot Technique Bursts Forth! Sanji vs. the Invincible Pearl!</item>
+     <item>  Zeff and Sanji\'s Dream! The Illusory All Blue!</item>
+
+     <item>  Cool-Headed, Cold-Hearted Demon! Pirate Fleet Chief Commander Ghin!</item>
+
+     <item>  I Won\'t Die! Fierce Battle, Luffy vs. Krieg!</item>
+
+     <item>  The Conclusion of the Deadly Battle! A Spear of Blind Determination!</item>
+
+     <item>  Set Sail! The Seafaring Cook Sets Off With Luffy!</item>
+
+     <item>  The Worst Man in the Eastern Seas! Fish-Man Pirate Arlong!</item>
+
+     <item>  Witch of Cocoyashi Village! Arlong\'s Female Leader!</item>
+
+     <item>  Usopp Dead?! When Is Luffy Going to Make Landfall?!</item>
+
+     <item>  Everyone\'s Gathered! Usopp Speaks the Truth About Nami!</item>
+
+     <item>  Untold Past! Female Warrior Bellemere!</item>
+
+     <item>  Survive! Mother Bellemere and Nami\'s Bond!</item>
+
+     <item>  Luffy Rises! Result of the Broken Promise!</item>
+
+     <item>  Luffy in Big Trouble! Fish-Men vs. the Luffy Pirates!</item>
+
+     <item>  Luffy Submerged! Zoro vs. Hatchan the Octopus!</item>
+
+     <item>  Proud Warriors! Sanji and Usopp\'s Fierce Battles!</item>
+
+     <item>  Luffy at Full Power! Nami\'s Determination and the Straw Hat!</item>
+
+     <item>  Explosion! Fish-Man Arlong\'s Fierce Assault From the Sea!</item>
+
+     <item>  End of the Fish-Man Empire! Nami\'s My Friend!</item>
+
+     <item>  Setting Out With a Smile! Farewell, Hometown Cocoyashi Village!</item>
+
+     <item>  Bounty! Straw Hat Luffy Becomes Known to the World!</item>
+
+     <item>  Chase Straw Hat! Little Buggy\'s Big Adventure!</item>
+
+     <item>  The Wait Is Over! The Return of Captain Buggy!</item>
+
+     <item>  The Town of the Beginning and the End! Landfall at Loguetown!</item>
+
+     <item>  Kitetsu III and Yubashiri! Zoro\'s New Swords and the Woman Sergeant Major!</item>
+
+     <item>  Usopp vs. Daddy the Parent! Showdown at High!</item>
+     <item>  Fiery Cooking Battle? Sanji vs. the Beautiful Chef!</item>
+     <item>  Buggy’s Revenge! The Man Who Smiles on the Execution Platform!</item>
+
+     <item>  The Legend Has Started! Head for the Grand Line!</item>
+     <item>  The First Line of Defense? The Giant Whale Laboon Appears!</item>
+
+     <item>  A Promise Between Men! Luffy and the Whale Vow to Meet Again!</item>
+
+     <item>  A Town That Welcomes Pirates? Setting Foot on Whisky Peak!</item>
+
+     <item>  Explosion! The Three Swords Style! Zoro vs. Baroque Works!</item>
+
+     <item>  All Out Battle! Luffy vs. Zoro, Mysterious Grand Duel!</item>
+
+     <item>  Deliver Princess Vivi! The Luffy Pirates Set Sail!</item>
+
+     <item>  Try Hard, Coby! Coby and Helmeppo’s Struggles in the Marines!</item>
+
+     <item>  Coby and Helmeppo\'s Resolve! Vice-Admiral Garp’s Parental Affection</item>
+
+     <item>  An Ancient Island! The Shadow Hiding in Little Garden!</item>
+
+     <item>  Huge Duel! The Giants Dorry and Broggy!</item>
+
+     <item>  Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!</item>
+
+     <item>  Broggy’s Bitter Tears of Victory! The Conclusion of Elbaf!</item>
+
+     <item>  The Devilish Candle! Tears of Regret and Tears of Anger!</item>
+
+     <item>  A Hex on Luffy! Colors Trap!</item>
+
+        <item>Time to Fight Back! Usopp\'s Quick Thinking and Fire Star!</item>
+
+     <item>  Farewell Giant Island! Head for Alabasta!</item>
+
+     <item>  Nami’s Sick? Beyond the Snow Falling on the Sea!</item>
+
+     <item>  A Raid! The Tin Tyrant and Tin Plate Wapol!</item>
+
+     <item>  An Island Without Doctors? Adventure in a Nameless Land!</item>
+
+     <item>  Are You Happy? The Doctor Called Witch!</item>
+
+     <item>  Dalton’s Resolve! Wapol’s Corps Lands on the Island!</item>
+
+     <item>  The Island Where Snow Lives! Climb the Drum Rockies!</item>
+
+     <item>  Blue-Nosed Reindeer! Chopper’s Secret!</item>
+
+     <item>  An Outcast\'s Dream! Hiriluk the Quack!</item>
+
+     <item>  Hiriluk’s Cherry Blossoms and the Will That Gets Carried On!</item>
+
+     <item>  Fight Wapol\'s Crew! The Power of the Munch-Munch Fruit!</item>
+     <item>  Zoan-Type Devil Fruit! Chopper’s Seven-Form Transformation!</item>
+
+     <item>  When the Kingdom’s Rule Ends! The Flag of Faith Flies Forever!</item>
+
+     <item>  Hiriluk\'s Cherry Blossoms! Miracle in the Drum Rockies!</item>
+
+     <item>  Goodbye Drum Island! I’m Going Out to Sea!</item>
+
+     <item>  Alabasta\'s Hero and a Ballerina on the Ship!</item>
+
+     <item>  Off to the Desert Kingdom! The Rain-Summoning Powder and the Rebel Army!</item>
+     <item>  The Heroes\' Reunion! His Name Is Fire Fist Ace!</item>
+
+     <item>  Ace and Luffy! Hot Emotions and Brotherly Bonds!</item>
+
+     <item>  Erumalu, the City of Green and the Kung Fu Dugongs!</item>
+
+     <item>  Adventure in the Country of Sand! The Monsters That Live in the Scorching Land!</item>
+     <item>  Rebel Warrior Koza! The Dream Vowed to Vivi!</item>
+     <item>  Spiders Café at 8 O’Clock! The Enemy Leaders Gather!</item>
+
+     <item>  Luffy vs. Vivi! The Tearful Vow to Put Friends on the Line!</item>
+
+     <item>  The Battlefront of Alabasta! Rainbase, the City of Dreams!</item>
+
+     <item>  The Trap of Certain Defeat! Storming Raindinners!</item>
+
+     <item>  Operation Utopia Commences! The Swell of Rebellion Stirs!</item>
+
+     <item>  The Terrifying Banana Gators and Mr. Prince!</item>
+
+     <item>  The Key to a Great Comeback Escape! The Wax-Wax Ball!</item>
+
+     <item>  Merciless Mortal Combat! Luffy vs. Crocodile!</item>
+
+     <item>  Dash for a Miracle! Alabasta Animal Land!</item>
+
+     <item>  Rebel Army vs. Royal Army! Showdown at Alubarna!</item>
+
+     <item>  Alubarna Grieves! The Fierce Captain Karoo!</item>
+
+     <item>  Sworn on a Friend\'s Dream! The Battle of Molehill, Block 4!</item>
+
+     <item>  Big Opening Day Today! The Copy-Copy Montage!</item>
+
+     <item>  Transformed Into Nami! Bon Clay’s Rapid-Fire Ballet Kenpo!</item>
+<item>	Nami\'s Cyclone Advisory! Clima Takt Burst!</item>
+<item>Secret Passed Down in the Royal Family! The Ancient Weapon Pluton!</item>
+<item>Secret of Powerful Swordplay! Ability to Cut Steel and the Rhythm Things Have!</item>
+<item>The Battle is Over! Koza Raises the White Flag!</item>
+<item>Where Vivi\'s Voice Gets Heard! The Hero Descends!</item>
+<item>Sand Croc and Water Luffy! The Second Round of the Duel!</item>
+<item>That Looks Croc-ish! Luffy, Run to the Royal Tomb!</item>
+<item>The Nightmare Draws Near! This is the Sand-Sand Clan\'s Secret Base!</item>
+<item>	Magnificent Wings! My Name is Pell, Guardian Deity of the Country!</item>
+<item>I Will Surpass You! Rain Falls in Alabasta!</item>
+<item>A Farewell to Arms! Pirates and Different Ideas of Justice!</item>
+<item>The Pirates’ Banquet and Operation Escape From Alabasta!</item>
+<item>It All Started on That Day! Vivi Tells the Story of Her Adventure!</item>
+<item>Scent of Danger! The Seventh Member Is Nico Robin!</item>
+<item>        Caught Log! The King of Salvagers, Masira!</item>
+<item>Monsters Appear! Don\'t Mess With the Whitebeard Pirates!</item>
+<item>Quit Dreaming! Mock Town, the Town of Ridicule!</item>
+<item>Distinguished Pirates! A Man Who Talks of Dreams and the King of Undersea Search!</item>
+<item>Legendary Family! Noland the Liar!</item>
+<item>Steer for the Clouds! Capture the South Bird!</item>
+<item>Dreams Don\'t Come True?! Bellamy vs. the Saruyama Alliance</item>
+<item>100 Million Man! World\'s Greatest Power and Pirate Blackbeard</item>
+<item>Take to the Sky! Ride the Knock-Up Stream!</item>
+<item>	Sail the White Sea! The Sky Knight and the Gate in the Clouds!</item>
+<item>	Godland, Skypiea! Angels on a Beach of Clouds</item>
+<item>The Forbidden Sacred Ground! The Island Where God Lives and Heaven\'s Judgment!</item>
+<item>Already Criminals?! Skypiea\'s Upholder of the Law!</item>
+<item>Is Escape Possible?!? God\'s Challenge Is Set in Motion!</item>
+<item>A Trap on Lovely Street! The Almighty Eneru!</item>
+<item>Onward Crow! To the Sacrificial Altar!</item>
+<item>10% Survival Rate! Satori, the Mantra Master!</item>
+<item>The Ordeal of Spheres! Desperate Struggle in the Lost Forest!</item>
+<item>Chopper in Danger! Former God vs. Priest Shura!</item>
+<item>Profound Mystery! Ordeal of String and Ordeal of Love?!?</item>
+<item>Light the Fire of Shandora! Wyper the Warrior!</item>
+<item>Jaya, City of Gold in the Sky! Head for God\'s Shrine!</item>
+<item>Festival on the Night Before Gold Hunting! Feelings for "Vearth!"</item>
+<item>Enter God Eneru! Farewell to the Survivors!</item>
+<item>A Giant Snake Bares Its Fangs! The Survival Game Begins!</item>
+<item>The Deadly Reject! War Demon Wyper\'s Resolve</item>
+<item>Fierce Mid-Air Battle! Pirate Zoro vs. Warrior Braham</item>
+<item>        The Roaring Burn Bazooka!! Pirate Luffy vs. War Demon Wyper!</item>
+<item>The Ordeal of Swamp! Chopper vs. Priest Gedatsu!</item>
+<item>        Unbeatable Powers! Eneru\'s True Form Is Revealed!</item>
+<item>        A Mystical City! The Grand Ruins of Shandora!</item>
+<item>        0% Survival Rate! Chopper vs Ohm, the Sword Wielding Priest</item>
+<item>        Climb Giant Jack! Deadly Combat in the Upper Ruins!</item>
+<item>        The Ordeal of Iron! White Barbed Death Match!</item>
+<item>        Bursting Slash! Zoro vs. Ohm!</item>
+<item>        Collapsing Upper Ruins! The Quintet for the Finale!</item>
+<item>        Showdown in the Ancient Ruins! Sky God Eneru\'s Goal!</item>
+<item>Ambition Towards the Endless Vearth! The Ark Maxim!</item>
+<item>They Finally Clash! Pirate Luffy vs. God Eneru!</item>
+<item>	Maxim Surfaces! Deathpiea is Activated!</item>
+<item>Luffy Falls! Eneru\'s Judgment and Nami\'s Wish!</item>
+<item>The Two Awaken! On the Front Lines of the Burning Love Rescue!</item>
+<item>Capriccio for Despair! The Impending Doom of Sky Island!</item>
+<item>Led by a Bell\'s Sound! Tale of the Great Warrior and the Explorer!</item>
+<item>Free From the Spell! The Great Warrior Sheds Tears!</item>
+<item>Eternal Friends! The Vowed Bell Echoes Across the Mighty Seas!</item>
+<item>Angel Island, Obliterated! The Horror of the Raigo\'s Advent!!</item>
+<item>Knock Over Giant Jack! Last Hope for Escape!</item>
+<item>Miracle on Skypiea! The Love Song Heard in the Clouds!</item>
+<item>The Battle Ends! Proud Fantasia Echoes Far!</item>
+<item>I Made It Here! The Yarn the Poneglyphs Spin!</item>
+<item>Off to the Blue Sea!! A Heartfelt Finale!!</item>
+<item>        Great Adventure in Long Ring Long Land!</item>
+<item>A Davy Back With the Foxy Pirates!</item>
+<item>Round 1! One Lap of the Donut Race!</item>
+<item>Silver Fox Foxy! The Merciless Interference!</item>
+
+        <item>  I\'m Luffy! The Man Who\s Gonna Be King of the Pirates!</item>
+
+        <item>  Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!</item>
+
+        <item>  Morgan vs. Luffy! Who\'s the Mysterious Pretty Girl?</item>
+
+        <item>  Luffy\'s Past! Enter Red-Haired Shanks!</item>
+
+        <item>  A Terrifying Mysterious Power! Captain Buggy, the Clown Pirate!</item>
+
+        <item>  Desperate Situation! Beast Tamer Mohji vs. Luffy!</item>
+
+        <item>  Epic Showdown! Swordsman Zoro vs. Acrobat Cabaji!</item>
+
+        <item>  Who Is the Victor? Devil Fruit Power Showdown!</item>
+
+        <item>  The Honorable Liar? Captain Usopp!</item>
+
+        <item>  The Weirdest Guy Ever! Jango the Hypnotist!</item>
+
+        <item>  Expose the Plot! Pirate Butler, Captain Kuro!</item>
+
+        <item>  Clash With the Black Cat Pirates! The Great Battle on the Slope!</item>
+
+        <item>  The Terrifying Duo! Meowban Brothers vs. Zoro!</item>
+
+        <item>  Luffy Back in Action! Miss Kaya\'s Desperate Resistance!</item>
+
+        <item>  Beat Kuro! Usopp the Man\'s Tearful Resolve!</item>
+
+        <item>  Protect Kaya! The Usopp Pirates\' Great Efforts!</item>
+
+        <item>  Anger Explosion! Kuro vs. Luffy! How It Ends!</item>
+
+        <item>  You\'re the Weird Creature! Gaimon and His Strange Friends!</item>
+        <item>  The Three-Sword Style\'s Past! Zoro and Kuina\'s Vow!</item>
+        <item>  Famous Cook! Sanji of the Sea Restaurant!</item>
+
+        <item>  Unwelcome Customer! Sanji\'s Food and Ghin\'s Debt!</item>
+        <item>  The Strongest Pirate Fleet! Commodore Don Krieg!</item>
+
+        <item>  Protect Baratie! The Great Pirate, Red Foot Zeff!</item>
+        <item>  Hawk-Eye Mihawk! The Great Swordsman Zoro Falls at Sea!</item>
+        <item>  The Deadly Foot Technique Bursts Forth! Sanji vs. the Invincible Pearl!</item>
+        <item>  Zeff and Sanji\'s Dream! The Illusory All Blue!</item>
+
+        <item>  Cool-Headed, Cold-Hearted Demon! Pirate Fleet Chief Commander Ghin!</item>
+
+        <item>  I Won\'t Die! Fierce Battle, Luffy vs. Krieg!</item>
+
+        <item>  The Conclusion of the Deadly Battle! A Spear of Blind Determination!</item>
+
+        <item>  Set Sail! The Seafaring Cook Sets Off With Luffy!</item>
+
+        <item>  The Worst Man in the Eastern Seas! Fish-Man Pirate Arlong!</item>
+
+        <item>  Witch of Cocoyashi Village! Arlong\'s Female Leader!</item>
+
+        <item>  Usopp Dead?! When Is Luffy Going to Make Landfall?!</item>
+
+        <item>  Everyone\'s Gathered! Usopp Speaks the Truth About Nami!</item>
+
+        <item>  Untold Past! Female Warrior Bellemere!</item>
+
+        <item>  Survive! Mother Bellemere and Nami\'s Bond!</item>
+
+        <item>  Luffy Rises! Result of the Broken Promise!</item>
+
+        <item>  Luffy in Big Trouble! Fish-Men vs. the Luffy Pirates!</item>
+
+        <item>  Luffy Submerged! Zoro vs. Hatchan the Octopus!</item>
+
+        <item>  Proud Warriors! Sanji and Usopp\'s Fierce Battles!</item>
+
+        <item>  Luffy at Full Power! Nami\'s Determination and the Straw Hat!</item>
+
+        <item>  Explosion! Fish-Man Arlong\'s Fierce Assault From the Sea!</item>
+
+        <item>  End of the Fish-Man Empire! Nami\'s My Friend!</item>
+
+        <item>  Setting Out With a Smile! Farewell, Hometown Cocoyashi Village!</item>
+
+        <item>  Bounty! Straw Hat Luffy Becomes Known to the World!</item>
+
+        <item>  Chase Straw Hat! Little Buggy\'s Big Adventure!</item>
+
+        <item>  The Wait Is Over! The Return of Captain Buggy!</item>
+
+        <item>  The Town of the Beginning and the End! Landfall at Loguetown!</item>
+
+        <item>  Kitetsu III and Yubashiri! Zoro\'s New Swords and the Woman Sergeant Major!</item>
+
+        <item>  Usopp vs. Daddy the Parent! Showdown at High!</item>
+        <item>  Fiery Cooking Battle? Sanji vs. the Beautiful Chef!</item>
+        <item>  Buggy’s Revenge! The Man Who Smiles on the Execution Platform!</item>
+
+        <item>  The Legend Has Started! Head for the Grand Line!</item>
+        <item>  The First Line of Defense? The Giant Whale Laboon Appears!</item>
+
+        <item>  A Promise Between Men! Luffy and the Whale Vow to Meet Again!</item>
+
+        <item>  A Town That Welcomes Pirates? Setting Foot on Whisky Peak!</item>
+
+        <item>  Explosion! The Three Swords Style! Zoro vs. Baroque Works!</item>
+
+        <item>  All Out Battle! Luffy vs. Zoro, Mysterious Grand Duel!</item>
+
+        <item>  Deliver Princess Vivi! The Luffy Pirates Set Sail!</item>
+
+        <item>  Try Hard, Coby! Coby and Helmeppo’s Struggles in the Marines!</item>
+
+        <item>  Coby and Helmeppo\'s Resolve! Vice-Admiral Garp’s Parental Affection</item>
+
+        <item>  An Ancient Island! The Shadow Hiding in Little Garden!</item>
+
+        <item>  Huge Duel! The Giants Dorry and Broggy!</item>
+
+        <item>  Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!</item>
+
+        <item>  Broggy’s Bitter Tears of Victory! The Conclusion of Elbaf!</item>
+
+        <item>  The Devilish Candle! Tears of Regret and Tears of Anger!</item>
+
+        <item>  A Hex on Luffy! Colors Trap!</item>
+
+        <item>Time to Fight Back! Usopp\'s Quick Thinking and Fire Star!</item>
+
+        <item>  Farewell Giant Island! Head for Alabasta!</item>
+
+        <item>  Nami’s Sick? Beyond the Snow Falling on the Sea!</item>
+
+        <item>  A Raid! The Tin Tyrant and Tin Plate Wapol!</item>
+
+        <item>  An Island Without Doctors? Adventure in a Nameless Land!</item>
+
+        <item>  Are You Happy? The Doctor Called Witch!</item>
+
+        <item>  Dalton’s Resolve! Wapol’s Corps Lands on the Island!</item>
+
+        <item>  The Island Where Snow Lives! Climb the Drum Rockies!</item>
+
+        <item>  Blue-Nosed Reindeer! Chopper’s Secret!</item>
+
+        <item>  An Outcast\'s Dream! Hiriluk the Quack!</item>
+
+        <item>  Hiriluk’s Cherry Blossoms and the Will That Gets Carried On!</item>
+
+        <item>  Fight Wapol\'s Crew! The Power of the Munch-Munch Fruit!</item>
+        <item>  Zoan-Type Devil Fruit! Chopper’s Seven-Form Transformation!</item>
+
+        <item>  When the Kingdom’s Rule Ends! The Flag of Faith Flies Forever!</item>
+
+        <item>  Hiriluk\'s Cherry Blossoms! Miracle in the Drum Rockies!</item>
+
+        <item>  Goodbye Drum Island! I’m Going Out to Sea!</item>
+
+        <item>  Alabasta\'s Hero and a Ballerina on the Ship!</item>
+
+        <item>  Off to the Desert Kingdom! The Rain-Summoning Powder and the Rebel Army!</item>
+        <item>  The Heroes\' Reunion! His Name Is Fire Fist Ace!</item>
+
+        <item>  Ace and Luffy! Hot Emotions and Brotherly Bonds!</item>
+
+        <item>  Erumalu, the City of Green and the Kung Fu Dugongs!</item>
+
+        <item>  Adventure in the Country of Sand! The Monsters That Live in the Scorching Land!</item>
+        <item>  Rebel Warrior Koza! The Dream Vowed to Vivi!</item>
+        <item>  Spiders Café at 8 O’Clock! The Enemy Leaders Gather!</item>
+
+        <item>  Luffy vs. Vivi! The Tearful Vow to Put Friends on the Line!</item>
+
+        <item>  The Battlefront of Alabasta! Rainbase, the City of Dreams!</item>
+
+        <item>  The Trap of Certain Defeat! Storming Raindinners!</item>
+
+        <item>  Operation Utopia Commences! The Swell of Rebellion Stirs!</item>
+
+        <item>  The Terrifying Banana Gators and Mr. Prince!</item>
+
+        <item>  The Key to a Great Comeback Escape! The Wax-Wax Ball!</item>
+
+        <item>  Merciless Mortal Combat! Luffy vs. Crocodile!</item>
+
+        <item>  Dash for a Miracle! Alabasta Animal Land!</item>
+
+        <item>  Rebel Army vs. Royal Army! Showdown at Alubarna!</item>
+
+        <item>  Alubarna Grieves! The Fierce Captain Karoo!</item>
+
+        <item>  Sworn on a Friend\'s Dream! The Battle of Molehill, Block 4!</item>
+
+        <item>  Big Opening Day Today! The Copy-Copy Montage!</item>
+
+        <item>  Transformed Into Nami! Bon Clay’s Rapid-Fire Ballet Kenpo!</item>
+        <item>	Nami\'s Cyclone Advisory! Clima Takt Burst!</item>
+        <item>Secret Passed Down in the Royal Family! The Ancient Weapon Pluton!</item>
+        <item>Secret of Powerful Swordplay! Ability to Cut Steel and the Rhythm Things Have!</item>
+        <item>The Battle is Over! Koza Raises the White Flag!</item>
+        <item>Where Vivi\'s Voice Gets Heard! The Hero Descends!</item>
+        <item>Sand Croc and Water Luffy! The Second Round of the Duel!</item>
+        <item>That Looks Croc-ish! Luffy, Run to the Royal Tomb!</item>
+        <item>The Nightmare Draws Near! This is the Sand-Sand Clan\'s Secret Base!</item>
+        <item>	Magnificent Wings! My Name is Pell, Guardian Deity of the Country!</item>
+        <item>I Will Surpass You! Rain Falls in Alabasta!</item>
+        <item>A Farewell to Arms! Pirates and Different Ideas of Justice!</item>
+        <item>The Pirates’ Banquet and Operation Escape From Alabasta!</item>
+        <item>It All Started on That Day! Vivi Tells the Story of Her Adventure!</item>
+        <item>Scent of Danger! The Seventh Member Is Nico Robin!</item>
+        <item>        Caught Log! The King of Salvagers, Masira!</item>
+        <item>Monsters Appear! Don\'t Mess With the Whitebeard Pirates!</item>
+        <item>Quit Dreaming! Mock Town, the Town of Ridicule!</item>
+        <item>Distinguished Pirates! A Man Who Talks of Dreams and the King of Undersea Search!</item>
+        <item>Legendary Family! Noland the Liar!</item>
+        <item>Steer for the Clouds! Capture the South Bird!</item>
+        <item>Dreams Don\'t Come True?! Bellamy vs. the Saruyama Alliance</item>
+        <item>100 Million Man! World\'s Greatest Power and Pirate Blackbeard</item>
+        <item>Take to the Sky! Ride the Knock-Up Stream!</item>
+        <item>	Sail the White Sea! The Sky Knight and the Gate in the Clouds!</item>
+        <item>	Godland, Skypiea! Angels on a Beach of Clouds</item>
+        <item>The Forbidden Sacred Ground! The Island Where God Lives and Heaven\'s Judgment!</item>
+        <item>Already Criminals?! Skypiea\'s Upholder of the Law!</item>
+        <item>Is Escape Possible?!? God\'s Challenge Is Set in Motion!</item>
+        <item>A Trap on Lovely Street! The Almighty Eneru!</item>
+        <item>Onward Crow! To the Sacrificial Altar!</item>
+        <item>10% Survival Rate! Satori, the Mantra Master!</item>
+        <item>The Ordeal of Spheres! Desperate Struggle in the Lost Forest!</item>
+        <item>Chopper in Danger! Former God vs. Priest Shura!</item>
+        <item>Profound Mystery! Ordeal of String and Ordeal of Love?!?</item>
+        <item>Light the Fire of Shandora! Wyper the Warrior!</item>
+        <item>Jaya, City of Gold in the Sky! Head for God\'s Shrine!</item>
+        <item>Festival on the Night Before Gold Hunting! Feelings for "Vearth!"</item>
+        <item>Enter God Eneru! Farewell to the Survivors!</item>
+        <item>A Giant Snake Bares Its Fangs! The Survival Game Begins!</item>
+        <item>The Deadly Reject! War Demon Wyper\'s Resolve</item>
+        <item>Fierce Mid-Air Battle! Pirate Zoro vs. Warrior Braham</item>
+        <item>        The Roaring Burn Bazooka!! Pirate Luffy vs. War Demon Wyper!</item>
+        <item>The Ordeal of Swamp! Chopper vs. Priest Gedatsu!</item>
+        <item>        Unbeatable Powers! Eneru\'s True Form Is Revealed!</item>
+        <item>        A Mystical City! The Grand Ruins of Shandora!</item>
+        <item>        0% Survival Rate! Chopper vs Ohm, the Sword Wielding Priest</item>
+        <item>        Climb Giant Jack! Deadly Combat in the Upper Ruins!</item>
+        <item>        The Ordeal of Iron! White Barbed Death Match!</item>
+        <item>        Bursting Slash! Zoro vs. Ohm!</item>
+        <item>        Collapsing Upper Ruins! The Quintet for the Finale!</item>
+        <item>        Showdown in the Ancient Ruins! Sky God Eneru\'s Goal!</item>
+        <item>Ambition Towards the Endless Vearth! The Ark Maxim!</item>
+        <item>They Finally Clash! Pirate Luffy vs. God Eneru!</item>
+        <item>	Maxim Surfaces! Deathpiea is Activated!</item>
+        <item>Luffy Falls! Eneru\'s Judgment and Nami\'s Wish!</item>
+        <item>The Two Awaken! On the Front Lines of the Burning Love Rescue!</item>
+        <item>Capriccio for Despair! The Impending Doom of Sky Island!</item>
+        <item>Led by a Bell\'s Sound! Tale of the Great Warrior and the Explorer!</item>
+        <item>Free From the Spell! The Great Warrior Sheds Tears!</item>
+        <item>Eternal Friends! The Vowed Bell Echoes Across the Mighty Seas!</item>
+        <item>Angel Island, Obliterated! The Horror of the Raigo\'s Advent!!</item>
+        <item>Knock Over Giant Jack! Last Hope for Escape!</item>
+        <item>Miracle on Skypiea! The Love Song Heard in the Clouds!</item>
+        <item>The Battle Ends! Proud Fantasia Echoes Far!</item>
+        <item>I Made It Here! The Yarn the Poneglyphs Spin!</item>
+        <item>Off to the Blue Sea!! A Heartfelt Finale!!</item>
+        <item>        Great Adventure in Long Ring Long Land!</item>
+        <item>A Davy Back With the Foxy Pirates!</item>
+        <item>Round 1! One Lap of the Donut Race!</item>
+        <item>Silver Fox Foxy! The Merciless Interference!</item>
+
+        <item>  I\'m Luffy! The Man Who\s Gonna Be King of the Pirates!</item>
+
+        <item>  Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!</item>
+
+        <item>  Morgan vs. Luffy! Who\'s the Mysterious Pretty Girl?</item>
+
+        <item>  Luffy\'s Past! Enter Red-Haired Shanks!</item>
+
+        <item>  A Terrifying Mysterious Power! Captain Buggy, the Clown Pirate!</item>
+
+        <item>  Desperate Situation! Beast Tamer Mohji vs. Luffy!</item>
+
+        <item>  Epic Showdown! Swordsman Zoro vs. Acrobat Cabaji!</item>
+
+        <item>  Who Is the Victor? Devil Fruit Power Showdown!</item>
+
+        <item>  The Honorable Liar? Captain Usopp!</item>
+
+        <item>  The Weirdest Guy Ever! Jango the Hypnotist!</item>
+
+        <item>  Expose the Plot! Pirate Butler, Captain Kuro!</item>
+
+        <item>  Clash With the Black Cat Pirates! The Great Battle on the Slope!</item>
+
+        <item>  The Terrifying Duo! Meowban Brothers vs. Zoro!</item>
+
+        <item>  Luffy Back in Action! Miss Kaya\'s Desperate Resistance!</item>
+
+        <item>  Beat Kuro! Usopp the Man\'s Tearful Resolve!</item>
+
+        <item>  Protect Kaya! The Usopp Pirates\' Great Efforts!</item>
+
+        <item>  Anger Explosion! Kuro vs. Luffy! How It Ends!</item>
+
+        <item>  You\'re the Weird Creature! Gaimon and His Strange Friends!</item>
+        <item>  The Three-Sword Style\'s Past! Zoro and Kuina\'s Vow!</item>
+        <item>  Famous Cook! Sanji of the Sea Restaurant!</item>
+
+        <item>  Unwelcome Customer! Sanji\'s Food and Ghin\'s Debt!</item>
+        <item>  The Strongest Pirate Fleet! Commodore Don Krieg!</item>
+
+        <item>  Protect Baratie! The Great Pirate, Red Foot Zeff!</item>
+        <item>  Hawk-Eye Mihawk! The Great Swordsman Zoro Falls at Sea!</item>
+        <item>  The Deadly Foot Technique Bursts Forth! Sanji vs. the Invincible Pearl!</item>
+        <item>  Zeff and Sanji\'s Dream! The Illusory All Blue!</item>
+
+        <item>  Cool-Headed, Cold-Hearted Demon! Pirate Fleet Chief Commander Ghin!</item>
+
+        <item>  I Won\'t Die! Fierce Battle, Luffy vs. Krieg!</item>
+
+        <item>  The Conclusion of the Deadly Battle! A Spear of Blind Determination!</item>
+
+        <item>  Set Sail! The Seafaring Cook Sets Off With Luffy!</item>
+
+        <item>  The Worst Man in the Eastern Seas! Fish-Man Pirate Arlong!</item>
+
+        <item>  Witch of Cocoyashi Village! Arlong\'s Female Leader!</item>
+
+        <item>  Usopp Dead?! When Is Luffy Going to Make Landfall?!</item>
+
+        <item>  Everyone\'s Gathered! Usopp Speaks the Truth About Nami!</item>
+
+        <item>  Untold Past! Female Warrior Bellemere!</item>
+
+        <item>  Survive! Mother Bellemere and Nami\'s Bond!</item>
+
+        <item>  Luffy Rises! Result of the Broken Promise!</item>
+
+        <item>  Luffy in Big Trouble! Fish-Men vs. the Luffy Pirates!</item>
+
+        <item>  Luffy Submerged! Zoro vs. Hatchan the Octopus!</item>
+
+        <item>  Proud Warriors! Sanji and Usopp\'s Fierce Battles!</item>
+
+        <item>  Luffy at Full Power! Nami\'s Determination and the Straw Hat!</item>
+
+        <item>  Explosion! Fish-Man Arlong\'s Fierce Assault From the Sea!</item>
+
+        <item>  End of the Fish-Man Empire! Nami\'s My Friend!</item>
+
+        <item>  Setting Out With a Smile! Farewell, Hometown Cocoyashi Village!</item>
+
+        <item>  Bounty! Straw Hat Luffy Becomes Known to the World!</item>
+
+        <item>  Chase Straw Hat! Little Buggy\'s Big Adventure!</item>
+
+        <item>  The Wait Is Over! The Return of Captain Buggy!</item>
+
+        <item>  The Town of the Beginning and the End! Landfall at Loguetown!</item>
+
+        <item>  Kitetsu III and Yubashiri! Zoro\'s New Swords and the Woman Sergeant Major!</item>
+
+        <item>  Usopp vs. Daddy the Parent! Showdown at High!</item>
+        <item>  Fiery Cooking Battle? Sanji vs. the Beautiful Chef!</item>
+        <item>  Buggy’s Revenge! The Man Who Smiles on the Execution Platform!</item>
+
+        <item>  The Legend Has Started! Head for the Grand Line!</item>
+        <item>  The First Line of Defense? The Giant Whale Laboon Appears!</item>
+
+        <item>  A Promise Between Men! Luffy and the Whale Vow to Meet Again!</item>
+
+        <item>  A Town That Welcomes Pirates? Setting Foot on Whisky Peak!</item>
+
+        <item>  Explosion! The Three Swords Style! Zoro vs. Baroque Works!</item>
+
+        <item>  All Out Battle! Luffy vs. Zoro, Mysterious Grand Duel!</item>
+
+        <item>  Deliver Princess Vivi! The Luffy Pirates Set Sail!</item>
+
+        <item>  Try Hard, Coby! Coby and Helmeppo’s Struggles in the Marines!</item>
+
+        <item>  Coby and Helmeppo\'s Resolve! Vice-Admiral Garp’s Parental Affection</item>
+
+        <item>  An Ancient Island! The Shadow Hiding in Little Garden!</item>
+
+        <item>  Huge Duel! The Giants Dorry and Broggy!</item>
+
+        <item>  Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!</item>
+
+        <item>  Broggy’s Bitter Tears of Victory! The Conclusion of Elbaf!</item>
+
+        <item>  The Devilish Candle! Tears of Regret and Tears of Anger!</item>
+
+        <item>  A Hex on Luffy! Colors Trap!</item>
+
+        <item>Time to Fight Back! Usopp\'s Quick Thinking and Fire Star!</item>
+
+        <item>  Farewell Giant Island! Head for Alabasta!</item>
+
+        <item>  Nami’s Sick? Beyond the Snow Falling on the Sea!</item>
+
+        <item>  A Raid! The Tin Tyrant and Tin Plate Wapol!</item>
+
+        <item>  An Island Without Doctors? Adventure in a Nameless Land!</item>
+
+        <item>  Are You Happy? The Doctor Called Witch!</item>
+
+        <item>  Dalton’s Resolve! Wapol’s Corps Lands on the Island!</item>
+
+        <item>  The Island Where Snow Lives! Climb the Drum Rockies!</item>
+
+        <item>  Blue-Nosed Reindeer! Chopper’s Secret!</item>
+
+        <item>  An Outcast\'s Dream! Hiriluk the Quack!</item>
+
+        <item>  Hiriluk’s Cherry Blossoms and the Will That Gets Carried On!</item>
+
+        <item>  Fight Wapol\'s Crew! The Power of the Munch-Munch Fruit!</item>
+        <item>  Zoan-Type Devil Fruit! Chopper’s Seven-Form Transformation!</item>
+
+        <item>  When the Kingdom’s Rule Ends! The Flag of Faith Flies Forever!</item>
+
+        <item>  Hiriluk\'s Cherry Blossoms! Miracle in the Drum Rockies!</item>
+
+        <item>  Goodbye Drum Island! I’m Going Out to Sea!</item>
+
+        <item>  Alabasta\'s Hero and a Ballerina on the Ship!</item>
+
+        <item>  Off to the Desert Kingdom! The Rain-Summoning Powder and the Rebel Army!</item>
+        <item>  The Heroes\' Reunion! His Name Is Fire Fist Ace!</item>
+
+        <item>  Ace and Luffy! Hot Emotions and Brotherly Bonds!</item>
+
+        <item>  Erumalu, the City of Green and the Kung Fu Dugongs!</item>
+
+        <item>  Adventure in the Country of Sand! The Monsters That Live in the Scorching Land!</item>
+        <item>  Rebel Warrior Koza! The Dream Vowed to Vivi!</item>
+        <item>  Spiders Café at 8 O’Clock! The Enemy Leaders Gather!</item>
+
+        <item>  Luffy vs. Vivi! The Tearful Vow to Put Friends on the Line!</item>
+
+        <item>  The Battlefront of Alabasta! Rainbase, the City of Dreams!</item>
+
+        <item>  The Trap of Certain Defeat! Storming Raindinners!</item>
+
+        <item>  Operation Utopia Commences! The Swell of Rebellion Stirs!</item>
+
+        <item>  The Terrifying Banana Gators and Mr. Prince!</item>
+
+        <item>  The Key to a Great Comeback Escape! The Wax-Wax Ball!</item>
+
+        <item>  Merciless Mortal Combat! Luffy vs. Crocodile!</item>
+
+        <item>  Dash for a Miracle! Alabasta Animal Land!</item>
+
+        <item>  Rebel Army vs. Royal Army! Showdown at Alubarna!</item>
+
+        <item>  Alubarna Grieves! The Fierce Captain Karoo!</item>
+
+        <item>  Sworn on a Friend\'s Dream! The Battle of Molehill, Block 4!</item>
+
+        <item>  Big Opening Day Today! The Copy-Copy Montage!</item>
+
+        <item>  Transformed Into Nami! Bon Clay’s Rapid-Fire Ballet Kenpo!</item>
+        <item>	Nami\'s Cyclone Advisory! Clima Takt Burst!</item>
+        <item>Secret Passed Down in the Royal Family! The Ancient Weapon Pluton!</item>
+        <item>Secret of Powerful Swordplay! Ability to Cut Steel and the Rhythm Things Have!</item>
+        <item>The Battle is Over! Koza Raises the White Flag!</item>
+        <item>Where Vivi\'s Voice Gets Heard! The Hero Descends!</item>
+        <item>Sand Croc and Water Luffy! The Second Round of the Duel!</item>
+        <item>That Looks Croc-ish! Luffy, Run to the Royal Tomb!</item>
+        <item>The Nightmare Draws Near! This is the Sand-Sand Clan\'s Secret Base!</item>
+        <item>	Magnificent Wings! My Name is Pell, Guardian Deity of the Country!</item>
+        <item>I Will Surpass You! Rain Falls in Alabasta!</item>
+        <item>A Farewell to Arms! Pirates and Different Ideas of Justice!</item>
+        <item>The Pirates’ Banquet and Operation Escape From Alabasta!</item>
+        <item>It All Started on That Day! Vivi Tells the Story of Her Adventure!</item>
+        <item>Scent of Danger! The Seventh Member Is Nico Robin!</item>
+        <item>        Caught Log! The King of Salvagers, Masira!</item>
+        <item>Monsters Appear! Don\'t Mess With the Whitebeard Pirates!</item>
+        <item>Quit Dreaming! Mock Town, the Town of Ridicule!</item>
+        <item>Distinguished Pirates! A Man Who Talks of Dreams and the King of Undersea Search!</item>
+        <item>Legendary Family! Noland the Liar!</item>
+        <item>Steer for the Clouds! Capture the South Bird!</item>
+        <item>Dreams Don\'t Come True?! Bellamy vs. the Saruyama Alliance</item>
+        <item>100 Million Man! World\'s Greatest Power and Pirate Blackbeard</item>
+        <item>Take to the Sky! Ride the Knock-Up Stream!</item>
+        <item>	Sail the White Sea! The Sky Knight and the Gate in the Clouds!</item>
+        <item>	Godland, Skypiea! Angels on a Beach of Clouds</item>
+        <item>The Forbidden Sacred Ground! The Island Where God Lives and Heaven\'s Judgment!</item>
+        <item>Already Criminals?! Skypiea\'s Upholder of the Law!</item>
+        <item>Is Escape Possible?!? God\'s Challenge Is Set in Motion!</item>
+        <item>A Trap on Lovely Street! The Almighty Eneru!</item>
+        <item>Onward Crow! To the Sacrificial Altar!</item>
+        <item>10% Survival Rate! Satori, the Mantra Master!</item>
+        <item>The Ordeal of Spheres! Desperate Struggle in the Lost Forest!</item>
+        <item>Chopper in Danger! Former God vs. Priest Shura!</item>
+        <item>Profound Mystery! Ordeal of String and Ordeal of Love?!?</item>
+        <item>Light the Fire of Shandora! Wyper the Warrior!</item>
+        <item>Jaya, City of Gold in the Sky! Head for God\'s Shrine!</item>
+        <item>Festival on the Night Before Gold Hunting! Feelings for "Vearth!"</item>
+        <item>Enter God Eneru! Farewell to the Survivors!</item>
+        <item>A Giant Snake Bares Its Fangs! The Survival Game Begins!</item>
+        <item>The Deadly Reject! War Demon Wyper\'s Resolve</item>
+        <item>Fierce Mid-Air Battle! Pirate Zoro vs. Warrior Braham</item>
+        <item>        The Roaring Burn Bazooka!! Pirate Luffy vs. War Demon Wyper!</item>
+        <item>The Ordeal of Swamp! Chopper vs. Priest Gedatsu!</item>
+        <item>        Unbeatable Powers! Eneru\'s True Form Is Revealed!</item>
+        <item>        A Mystical City! The Grand Ruins of Shandora!</item>
+        <item>        0% Survival Rate! Chopper vs Ohm, the Sword Wielding Priest</item>
+        <item>        Climb Giant Jack! Deadly Combat in the Upper Ruins!</item>
+        <item>        The Ordeal of Iron! White Barbed Death Match!</item>
+        <item>        Bursting Slash! Zoro vs. Ohm!</item>
+        <item>        Collapsing Upper Ruins! The Quintet for the Finale!</item>
+        <item>        Showdown in the Ancient Ruins! Sky God Eneru\'s Goal!</item>
+        <item>Ambition Towards the Endless Vearth! The Ark Maxim!</item>
+        <item>They Finally Clash! Pirate Luffy vs. God Eneru!</item>
+        <item>	Maxim Surfaces! Deathpiea is Activated!</item>
+        <item>Luffy Falls! Eneru\'s Judgment and Nami\'s Wish!</item>
+        <item>The Two Awaken! On the Front Lines of the Burning Love Rescue!</item>
+        <item>Capriccio for Despair! The Impending Doom of Sky Island!</item>
+        <item>Led by a Bell\'s Sound! Tale of the Great Warrior and the Explorer!</item>
+        <item>Free From the Spell! The Great Warrior Sheds Tears!</item>
+        <item>Eternal Friends! The Vowed Bell Echoes Across the Mighty Seas!</item>
+        <item>Angel Island, Obliterated! The Horror of the Raigo\'s Advent!!</item>
+        <item>Knock Over Giant Jack! Last Hope for Escape!</item>
+        <item>Miracle on Skypiea! The Love Song Heard in the Clouds!</item>
+        <item>The Battle Ends! Proud Fantasia Echoes Far!</item>
+        <item>I Made It Here! The Yarn the Poneglyphs Spin!</item>
+        <item>Off to the Blue Sea!! A Heartfelt Finale!!</item>
+        <item>        Great Adventure in Long Ring Long Land!</item>
+        <item>A Davy Back With the Foxy Pirates!</item>
+        <item>Round 1! One Lap of the Donut Race!</item>
+        <item>Silver Fox Foxy! The Merciless Interference!</item>
+
+    </string-array>
+
+    <string-array name="OnePieceFiller">
+        <item>  I\'m Luffy! The Man Who\s Gonna Be King of the Pirates!</item>
+
+        <item>  Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!</item>
+
+        <item>  Morgan vs. Luffy! Who\'s the Mysterious Pretty Girl?</item>
+
+        <item>  Luffy\'s Past! Enter Red-Haired Shanks!</item>
+
+        <item>  A Terrifying Mysterious Power! Captain Buggy, the Clown Pirate!</item>
+
+        <item>  Desperate Situation! Beast Tamer Mohji vs. Luffy!</item>
+
+        <item>  Epic Showdown! Swordsman Zoro vs. Acrobat Cabaji!</item>
+
+        <item>  Who Is the Victor? Devil Fruit Power Showdown!</item>
+
+        <item>  The Honorable Liar? Captain Usopp!</item>
+
+        <item>  The Weirdest Guy Ever! Jango the Hypnotist!</item>
+
+        <item>  Expose the Plot! Pirate Butler, Captain Kuro!</item>
+
+        <item>  Clash With the Black Cat Pirates! The Great Battle on the Slope!</item>
+
+        <item>  The Terrifying Duo! Meowban Brothers vs. Zoro!</item>
+
+        <item>  Luffy Back in Action! Miss Kaya\'s Desperate Resistance!</item>
+
+        <item>  Beat Kuro! Usopp the Man\'s Tearful Resolve!</item>
+
+        <item>  Protect Kaya! The Usopp Pirates\' Great Efforts!</item>
+
+        <item>  Anger Explosion! Kuro vs. Luffy! How It Ends!</item>
+
+        <item>  You\'re the Weird Creature! Gaimon and His Strange Friends!</item>
+        <item>  The Three-Sword Style\'s Past! Zoro and Kuina\'s Vow!</item>
+        <item>  Famous Cook! Sanji of the Sea Restaurant!</item>
+
+        <item>  Unwelcome Customer! Sanji\'s Food and Ghin\'s Debt!</item>
+        <item>  The Strongest Pirate Fleet! Commodore Don Krieg!</item>
+
+        <item>  Protect Baratie! The Great Pirate, Red Foot Zeff!</item>
+        <item>  Hawk-Eye Mihawk! The Great Swordsman Zoro Falls at Sea!</item>
+        <item>  The Deadly Foot Technique Bursts Forth! Sanji vs. the Invincible Pearl!</item>
+        <item>  Zeff and Sanji\'s Dream! The Illusory All Blue!</item>
+
+        <item>  Cool-Headed, Cold-Hearted Demon! Pirate Fleet Chief Commander Ghin!</item>
+
+        <item>  I Won\'t Die! Fierce Battle, Luffy vs. Krieg!</item>
+
+        <item>  The Conclusion of the Deadly Battle! A Spear of Blind Determination!</item>
+
+        <item>  Set Sail! The Seafaring Cook Sets Off With Luffy!</item>
+
+        <item>  The Worst Man in the Eastern Seas! Fish-Man Pirate Arlong!</item>
+
+        <item>  Witch of Cocoyashi Village! Arlong\'s Female Leader!</item>
+
+        <item>  Usopp Dead?! When Is Luffy Going to Make Landfall?!</item>
+
+        <item>  Everyone\'s Gathered! Usopp Speaks the Truth About Nami!</item>
+
+        <item>  Untold Past! Female Warrior Bellemere!</item>
+
+        <item>  Survive! Mother Bellemere and Nami\'s Bond!</item>
+
+        <item>  Luffy Rises! Result of the Broken Promise!</item>
+
+        <item>  Luffy in Big Trouble! Fish-Men vs. the Luffy Pirates!</item>
+
+        <item>  Luffy Submerged! Zoro vs. Hatchan the Octopus!</item>
+
+        <item>  Proud Warriors! Sanji and Usopp\'s Fierce Battles!</item>
+
+        <item>  Luffy at Full Power! Nami\'s Determination and the Straw Hat!</item>
+
+        <item>  Explosion! Fish-Man Arlong\'s Fierce Assault From the Sea!</item>
+
+        <item>  End of the Fish-Man Empire! Nami\'s My Friend!</item>
+
+        <item>  Setting Out With a Smile! Farewell, Hometown Cocoyashi Village!</item>
+
+        <item>  Bounty! Straw Hat Luffy Becomes Known to the World!</item>
+
+        <item>  Chase Straw Hat! Little Buggy\'s Big Adventure!</item>
+
+        <item>  The Wait Is Over! The Return of Captain Buggy!</item>
+
+        <item>  The Town of the Beginning and the End! Landfall at Loguetown!</item>
+
+        <item>  Kitetsu III and Yubashiri! Zoro\'s New Swords and the Woman Sergeant Major!</item>
+
+        <item>  Usopp vs. Daddy the Parent! Showdown at High!</item>
+        <item>  Fiery Cooking Battle? Sanji vs. the Beautiful Chef!</item>
+        <item>  Buggy’s Revenge! The Man Who Smiles on the Execution Platform!</item>
+
+        <item>  The Legend Has Started! Head for the Grand Line!</item>
+        <item>  The First Line of Defense? The Giant Whale Laboon Appears!</item>
+
+        <item>  A Promise Between Men! Luffy and the Whale Vow to Meet Again!</item>
+
+        <item>  A Town That Welcomes Pirates? Setting Foot on Whisky Peak!</item>
+
+        <item>  Explosion! The Three Swords Style! Zoro vs. Baroque Works!</item>
+
+        <item>  All Out Battle! Luffy vs. Zoro, Mysterious Grand Duel!</item>
+
+        <item>  Deliver Princess Vivi! The Luffy Pirates Set Sail!</item>
+
+        <item>  Try Hard, Coby! Coby and Helmeppo’s Struggles in the Marines!</item>
+
+        <item>  Coby and Helmeppo\'s Resolve! Vice-Admiral Garp’s Parental Affection</item>
+
+        <item>  An Ancient Island! The Shadow Hiding in Little Garden!</item>
+
+        <item>  Huge Duel! The Giants Dorry and Broggy!</item>
+
+        <item>  Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!</item>
+
+        <item>  Broggy’s Bitter Tears of Victory! The Conclusion of Elbaf!</item>
+
+        <item>  The Devilish Candle! Tears of Regret and Tears of Anger!</item>
+
+        <item>  A Hex on Luffy! Colors Trap!</item>
+
+        <item>Time to Fight Back! Usopp\'s Quick Thinking and Fire Star!</item>
+
+        <item>  Farewell Giant Island! Head for Alabasta!</item>
+
+        <item>  Nami’s Sick? Beyond the Snow Falling on the Sea!</item>
+
+        <item>  A Raid! The Tin Tyrant and Tin Plate Wapol!</item>
+
+        <item>  An Island Without Doctors? Adventure in a Nameless Land!</item>
+
+        <item>  Are You Happy? The Doctor Called Witch!</item>
+
+        <item>  Dalton’s Resolve! Wapol’s Corps Lands on the Island!</item>
+
+        <item>  The Island Where Snow Lives! Climb the Drum Rockies!</item>
+
+        <item>  Blue-Nosed Reindeer! Chopper’s Secret!</item>
+
+        <item>  An Outcast\'s Dream! Hiriluk the Quack!</item>
+
+        <item>  Hiriluk’s Cherry Blossoms and the Will That Gets Carried On!</item>
+
+        <item>  Fight Wapol\'s Crew! The Power of the Munch-Munch Fruit!</item>
+        <item>  Zoan-Type Devil Fruit! Chopper’s Seven-Form Transformation!</item>
+
+        <item>  When the Kingdom’s Rule Ends! The Flag of Faith Flies Forever!</item>
+
+        <item>  Hiriluk\'s Cherry Blossoms! Miracle in the Drum Rockies!</item>
+
+        <item>  Goodbye Drum Island! I’m Going Out to Sea!</item>
+
+        <item>  Alabasta\'s Hero and a Ballerina on the Ship!</item>
+
+        <item>  Off to the Desert Kingdom! The Rain-Summoning Powder and the Rebel Army!</item>
+        <item>  The Heroes\' Reunion! His Name Is Fire Fist Ace!</item>
+
+        <item>  Ace and Luffy! Hot Emotions and Brotherly Bonds!</item>
+
+        <item>  Erumalu, the City of Green and the Kung Fu Dugongs!</item>
+
+        <item>  Adventure in the Country of Sand! The Monsters That Live in the Scorching Land!</item>
+        <item>  Rebel Warrior Koza! The Dream Vowed to Vivi!</item>
+        <item>  Spiders Café at 8 O’Clock! The Enemy Leaders Gather!</item>
+
+        <item>  Luffy vs. Vivi! The Tearful Vow to Put Friends on the Line!</item>
+
+        <item>  The Battlefront of Alabasta! Rainbase, the City of Dreams!</item>
+
+        <item>  The Trap of Certain Defeat! Storming Raindinners!</item>
+
+        <item>  Operation Utopia Commences! The Swell of Rebellion Stirs!</item>
+
+        <item>  The Terrifying Banana Gators and Mr. Prince!</item>
+
+        <item>  The Key to a Great Comeback Escape! The Wax-Wax Ball!</item>
+
+        <item>  Merciless Mortal Combat! Luffy vs. Crocodile!</item>
+
+        <item>  Dash for a Miracle! Alabasta Animal Land!</item>
+
+        <item>  Rebel Army vs. Royal Army! Showdown at Alubarna!</item>
+
+        <item>  Alubarna Grieves! The Fierce Captain Karoo!</item>
+
+        <item>  Sworn on a Friend\'s Dream! The Battle of Molehill, Block 4!</item>
+
+        <item>  Big Opening Day Today! The Copy-Copy Montage!</item>
+
+        <item>  Transformed Into Nami! Bon Clay’s Rapid-Fire Ballet Kenpo!</item>
+        <item>	Nami\'s Cyclone Advisory! Clima Takt Burst!</item>
+        <item>Secret Passed Down in the Royal Family! The Ancient Weapon Pluton!</item>
+        <item>Secret of Powerful Swordplay! Ability to Cut Steel and the Rhythm Things Have!</item>
+        <item>The Battle is Over! Koza Raises the White Flag!</item>
+        <item>Where Vivi\'s Voice Gets Heard! The Hero Descends!</item>
+        <item>Sand Croc and Water Luffy! The Second Round of the Duel!</item>
+        <item>That Looks Croc-ish! Luffy, Run to the Royal Tomb!</item>
+        <item>The Nightmare Draws Near! This is the Sand-Sand Clan\'s Secret Base!</item>
+        <item>	Magnificent Wings! My Name is Pell, Guardian Deity of the Country!</item>
+        <item>I Will Surpass You! Rain Falls in Alabasta!</item>
+        <item>A Farewell to Arms! Pirates and Different Ideas of Justice!</item>
+        <item>The Pirates’ Banquet and Operation Escape From Alabasta!</item>
+        <item>It All Started on That Day! Vivi Tells the Story of Her Adventure!</item>
+        <item>Scent of Danger! The Seventh Member Is Nico Robin!</item>
+        <item>        Caught Log! The King of Salvagers, Masira!</item>
+        <item>Monsters Appear! Don\'t Mess With the Whitebeard Pirates!</item>
+        <item>Quit Dreaming! Mock Town, the Town of Ridicule!</item>
+        <item>Distinguished Pirates! A Man Who Talks of Dreams and the King of Undersea Search!</item>
+        <item>Legendary Family! Noland the Liar!</item>
+        <item>Steer for the Clouds! Capture the South Bird!</item>
+        <item>Dreams Don\'t Come True?! Bellamy vs. the Saruyama Alliance</item>
+        <item>100 Million Man! World\'s Greatest Power and Pirate Blackbeard</item>
+        <item>Take to the Sky! Ride the Knock-Up Stream!</item>
+        <item>	Sail the White Sea! The Sky Knight and the Gate in the Clouds!</item>
+        <item>	Godland, Skypiea! Angels on a Beach of Clouds</item>
+        <item>The Forbidden Sacred Ground! The Island Where God Lives and Heaven\'s Judgment!</item>
+        <item>Already Criminals?! Skypiea\'s Upholder of the Law!</item>
+        <item>Is Escape Possible?!? God\'s Challenge Is Set in Motion!</item>
+        <item>A Trap on Lovely Street! The Almighty Eneru!</item>
+        <item>Onward Crow! To the Sacrificial Altar!</item>
+        <item>10% Survival Rate! Satori, the Mantra Master!</item>
+        <item>The Ordeal of Spheres! Desperate Struggle in the Lost Forest!</item>
+        <item>Chopper in Danger! Former God vs. Priest Shura!</item>
+        <item>Profound Mystery! Ordeal of String and Ordeal of Love?!?</item>
+        <item>Light the Fire of Shandora! Wyper the Warrior!</item>
+        <item>Jaya, City of Gold in the Sky! Head for God\'s Shrine!</item>
+        <item>Festival on the Night Before Gold Hunting! Feelings for "Vearth!"</item>
+        <item>Enter God Eneru! Farewell to the Survivors!</item>
+        <item>A Giant Snake Bares Its Fangs! The Survival Game Begins!</item>
+        <item>The Deadly Reject! War Demon Wyper\'s Resolve</item>
+        <item>Fierce Mid-Air Battle! Pirate Zoro vs. Warrior Braham</item>
+        <item>        The Roaring Burn Bazooka!! Pirate Luffy vs. War Demon Wyper!</item>
+        <item>The Ordeal of Swamp! Chopper vs. Priest Gedatsu!</item>
+        <item>        Unbeatable Powers! Eneru\'s True Form Is Revealed!</item>
+        <item>        A Mystical City! The Grand Ruins of Shandora!</item>
+        <item>        0% Survival Rate! Chopper vs Ohm, the Sword Wielding Priest</item>
+        <item>        Climb Giant Jack! Deadly Combat in the Upper Ruins!</item>
+        <item>        The Ordeal of Iron! White Barbed Death Match!</item>
+        <item>        Bursting Slash! Zoro vs. Ohm!</item>
+        <item>        Collapsing Upper Ruins! The Quintet for the Finale!</item>
+        <item>        Showdown in the Ancient Ruins! Sky God Eneru\'s Goal!</item>
+        <item>Ambition Towards the Endless Vearth! The Ark Maxim!</item>
+        <item>They Finally Clash! Pirate Luffy vs. God Eneru!</item>
+        <item>	Maxim Surfaces! Deathpiea is Activated!</item>
+        <item>Luffy Falls! Eneru\'s Judgment and Nami\'s Wish!</item>
+        <item>The Two Awaken! On the Front Lines of the Burning Love Rescue!</item>
+        <item>Capriccio for Despair! The Impending Doom of Sky Island!</item>
+        <item>Led by a Bell\'s Sound! Tale of the Great Warrior and the Explorer!</item>
+        <item>Free From the Spell! The Great Warrior Sheds Tears!</item>
+        <item>Eternal Friends! The Vowed Bell Echoes Across the Mighty Seas!</item>
+        <item>Angel Island, Obliterated! The Horror of the Raigo\'s Advent!!</item>
+        <item>Knock Over Giant Jack! Last Hope for Escape!</item>
+        <item>Miracle on Skypiea! The Love Song Heard in the Clouds!</item>
+        <item>The Battle Ends! Proud Fantasia Echoes Far!</item>
+        <item>I Made It Here! The Yarn the Poneglyphs Spin!</item>
+        <item>Off to the Blue Sea!! A Heartfelt Finale!!</item>
+        <item>        Great Adventure in Long Ring Long Land!</item>
+        <item>A Davy Back With the Foxy Pirates!</item>
+        <item>Round 1! One Lap of the Donut Race!</item>
+        <item>Silver Fox Foxy! The Merciless Interference!</item>
+    </string-array>
+
+    <string-array name="DBZCanon">
+      <item> The New Threat</item>
+
+      <item> Reunions</item>
+
+      <item> Unlikely Alliance</item>
+
+      <item> Piccolo’s Plan</item>
+
+      <item> Gohan\'s Rage</item>
+
+      <item> No Time Like the Present</item>
+
+      <item> Day 1</item>
+
+      <item> Gohan Goes Bananas!</item>
+      <item> Terror on Arlia</item>
+      <item> Pendulum Room Peril</item>
+
+      <item> The End of Snake Way</item>
+
+      <item> Defying Gravity</item>
+
+      <item> Goku’s Ancestors</item>
+
+      <item> Counting Down</item>
+
+      <item> The Darkest Day</item>
+
+      <item> Saibamen Attack!</item>
+
+      <item> The Power of Nappa</item>
+
+      <item> Sacrifice</item>
+
+      <item> Nappa\'s Rampage</item>
+
+      <item> Nimbus Speed</item>
+
+      <item> Goku\'s Arrival</item>
+
+      <item> Lesson Number One</item>
+
+      <item>	Goku vs. Vegeta</item>
+
+      <item> Saiyan Sized Secret</item>
+
+      <item> Spirit Bomb Away!</item>
+
+      <item> Hero in the Shadows</item>
+
+      <item> Krillin\'s Offensive</item>
+
+      <item> Mercy</item>
+
+      <item> Picking Up the Pieces</item>
+
+      <item> Plans for Departure</item>
+
+      <item> Nursing Wounds</item>
+      <item> Frieza Strikes!</item>
+
+      <item> Defying Orders</item>
+
+      <item> Namek\'s Defense</item>
+
+        <item> The New Threat</item>
+
+        <item> Reunions</item>
+
+        <item> Unlikely Alliance</item>
+
+        <item> Piccolo’s Plan</item>
+
+        <item> Gohan\'s Rage</item>
+
+        <item> No Time Like the Present</item>
+
+        <item> Day 1</item>
+
+        <item> Gohan Goes Bananas!</item>
+        <item> Terror on Arlia</item>
+        <item> Pendulum Room Peril</item>
+
+        <item> The End of Snake Way</item>
+
+        <item> Defying Gravity</item>
+
+        <item> Goku’s Ancestors</item>
+
+        <item> Counting Down</item>
+
+        <item> The Darkest Day</item>
+
+        <item> Saibamen Attack!</item>
+
+        <item> The Power of Nappa</item>
+
+        <item> Sacrifice</item>
+
+        <item> Nappa\'s Rampage</item>
+
+        <item> Nimbus Speed</item>
+
+        <item> Goku\'s Arrival</item>
+
+        <item> Lesson Number One</item>
+
+        <item>	Goku vs. Vegeta</item>
+
+        <item> Saiyan Sized Secret</item>
+
+        <item> Spirit Bomb Away!</item>
+
+        <item> Hero in the Shadows</item>
+
+        <item> Krillin\'s Offensive</item>
+
+        <item> Mercy</item>
+
+        <item> Picking Up the Pieces</item>
+
+        <item> Plans for Departure</item>
+
+        <item> Nursing Wounds</item>
+        <item> Frieza Strikes!</item>
+
+        <item> Defying Orders</item>
+
+        <item> Namek\'s Defense</item>
+
+        <item> The New Threat</item>
+
+        <item> Reunions</item>
+
+        <item> Unlikely Alliance</item>
+
+        <item> Piccolo’s Plan</item>
+
+        <item> Gohan\'s Rage</item>
+
+        <item> No Time Like the Present</item>
+
+        <item> Day 1</item>
+
+        <item> Gohan Goes Bananas!</item>
+        <item> Terror on Arlia</item>
+        <item> Pendulum Room Peril</item>
+
+        <item> The End of Snake Way</item>
+
+        <item> Defying Gravity</item>
+
+        <item> Goku’s Ancestors</item>
+
+        <item> Counting Down</item>
+
+        <item> The Darkest Day</item>
+
+        <item> Saibamen Attack!</item>
+
+        <item> The Power of Nappa</item>
+
+        <item> Sacrifice</item>
+
+        <item> Nappa\'s Rampage</item>
+
+        <item> Nimbus Speed</item>
+
+        <item> Goku\'s Arrival</item>
+
+        <item> Lesson Number One</item>
+
+        <item>	Goku vs. Vegeta</item>
+
+        <item> Saiyan Sized Secret</item>
+
+        <item> Spirit Bomb Away!</item>
+
+        <item> Hero in the Shadows</item>
+
+        <item> Krillin\'s Offensive</item>
+
+        <item> Mercy</item>
+
+        <item> Picking Up the Pieces</item>
+
+        <item> Plans for Departure</item>
+
+        <item> Nursing Wounds</item>
+        <item> Frieza Strikes!</item>
+
+        <item> Defying Orders</item>
+
+        <item> Namek\'s Defense</item>
+    </string-array>
+
+    <string-array name="DBZFiller">
+
+        <item>The Strangest Robot</item>
+        <item> A New Friend</item>
+        <item> Global Training</item>
+     <item>   	Goz and Mez</item>
+     <item>  Princess Snake</item>
+     <item>  Dueling Piccolos</item>
+     <item>   Plight of the Children</item>
+     <item>   Friends or Foes?</item>
+     <item>   Held Captive</item>
+     <item>   Friends or Foes?</item>
+     <item>   The Search Continues</item>
+     <item>   A Friendly Surprise</item>
+        <item>The Strangest Robot</item>
+        <item> A New Friend</item>
+        <item> Global Training</item>
+        <item>   	Goz and Mez</item>
+        <item>  Princess Snake</item>
+        <item>  Dueling Piccolos</item>
+        <item>   Plight of the Children</item>
+        <item>   Friends or Foes?</item>
+        <item>   Held Captive</item>
+        <item>   Friends or Foes?</item>
+        <item>   The Search Continues</item>
+        <item>   A Friendly Surprise</item>
+    </string-array>
+
+    <string-array name="BlackCloverCanon">
+<item>        Asta and Yuno</item>
+<item>A Young Man\'s Vow</item>
+<item>To the Royal Capital!</item>
+<item>        The Magic Knights Entrance Exam</item>
+<item>The Road to the Wizard King</item>
+<item>The Black Bulls</item>
+<item>Another New Member</item>
+<item>Go! Go! My First Mission</item>
+<item>Beasts</item>
+<item>	Guardians</item>
+<item>	What Happened One Day in the Castle Town</item>
+<item>	The Wizard King Saw</item>
+<item>The Wizard King Saw, Continued</item>
+<item>        Dungeon</item>
+<item>The Diamond Mage</item>
+<item>Friends</item>
+<item>	Destroyer</item>
+<item>Memories of You</item>
+<item>       Destruction and Salvation</item>
+<item>	Assembly at the Royal Capital</item>
+<item>	Capital Riot</item>
+<item>Wild Magic Dance</item>
+<item>        The King of the Crimson Lions</item>
+<item>Blackout</item>
+<item>	Adversity</item>
+<item>Wounded Beasts</item>
+<item>Light</item>
+<item>The One I\'ve Set My Heart On</item>
+<item>        The Mirror Mage</item>
+<item>Pursuit over the Snow</item>
+<item>Three-Leaf Sprouts</item>
+<item>	To Help Somebody, Someday</item>
+<item>	Light Magic vs. Dark Magic</item>
+<item>	The Light of Judgement</item>
+<item>Three Eyes</item>
+<item>	The One with No Magic</item>
+<item>The Magic Knight Captains Conference</item>
+<item>	Three-Leaf Salute</item>
+<item>	A Black Beach Story</item>
+<item>The Water Girl Grows Up</item>
+<item>The Underwater Temple</item>
+<item>Temple Battle Royale</item>
+<item>The Pointlessly Direct Fireball and the Wild Lightning</item>
+<item>The Guy Who Doesn\'t Know When to Quit</item>
+<item>Awakening</item>
+<item>The Only Weapon</item>
+<item>Despair vs. Hope</item>
+<item>Beyond Limits</item>
+<item>End of the Battle, End of Despair</item>
+<item>Proof of Rightness</item>
+<item>Whoever\'s Strongest Wins</item>
+<item>	Behind the Mask</item>
+<item>Never Again</item>
+<item>The Man Named Fanzell</item>
+<item>        The Man Named Fanzell Continued</item>
+<item>        Infiltration</item>
+<item>	The Battlefield Decision</item>
+<item>	Flames of Hatred</item>
+<item>Defectors\' Atonement</item>
+<item>	The Promised World</item>
+<item>Bettering One Another</item>
+<item>Not in the Slightest</item>
+<item>The Red Thread of Fate</item>
+<item>I\'m Home</item>
+<item>        A Fun Festival Double Date</item>
+<item>        The Briar Maiden\'s Melancholy</item>
+<item>	Two New Stars</item>
+<item>The Uncrowned, Undefeated Lioness</item>
+<item>Saint Elmo\'s Fire</item>
+<item>The Royal Knights Selection Test</item>
+<item>Flower of Resolution</item>
+<item>Fierce Battle</item>
+<item>Mage X</item>
+<item>Bad Blood</item>
+<item>Peasant Trap</item>
+<item>Mister Delinquent vs. Muscle Brains</item>
+<item>	Special Little Brother vs. Failed Big Brother</item>
+<item>      	The Life of a Certain Man</item>
+<item>        Burn It into You</item>
+<item>The Victors</item>
+<item>Together in the Bath</item>
+<item>	Yami and Vangeance</item>
+<item>Formation of the Royal Knights</item>
+<item>Storming the Eye of the Midnight Sun\'s Hideout!!!</item>
+<item>	The Black Bull Hideout</item>
+<item>Crazy Magic Battle</item>
+<item>Mereoleona vs. Rhya the Disloyal</item>
+<item>The Wizard King vs. the Leader of the Eye of the Midnight Sun</item>
+<item>Julius Novachrono</item>
+<item>	New Future</item>
+<item>	Reincarnation</item>
+<item>The Black Bulls Captain vs. the Crimson Wild Rose</item>
+<item>Overwhelming Disadvantage</item>
+<item>The Sleeping Lion</item>
+<item>The Desperate Path Toward Survival</item>
+<item>	We Won\'t Lose to You</item>
+<item>The Lives of the Village in the Sticks</item>
+<item>Two Miracles</item>
+<item>Release from Misfortune</item>
+<item>	Lightning of Rage vs. Friends</item>
+<item>	Smiles, Tears</item>
+<item>Path of Revenge, Path of Atonement</item>
+<item>The Battle for Clover Castle</item>
+<item>Battlefield Dancer</item>
+<item>Spatial Mage Brothers</item>
+<item>The Raging Bull Joins the Showdown!!</item>
+<item>The Eyes in the Mirror</item>
+<item>Humans Who Can Be Trusted</item>
+<item>Storming the Shadow Palace</item>
+<item>The Final Invaders</item>
+<item>Mastermind</item>
+<item>The Ultimate Natural Enemy</item>
+<item>Breaking the Seal</item>
+<item>	A Reunion Across Time and Space</item>
+<item>        The Final Attack</item>
+<item>        Dawn</item>
+<item>        Three Problems</item>
+<item>        As Pitch Black as It Gets</item>
+<item>        The Blue Rose\'s Confession</item>
+<item>Clues</item>
+<item>	To the Heart Kingdom!</item>
+<item>	The Devil Megicula</item>
+<item>	The New Magic Knight Squad Captains\' Meeting</item>
+<item>        The Lion Awakens</item>
+<item>        The Lion Awakens, Continued</item>
+<item>        A Black Deep-Sea Story</item>
+<item>        Charmy\'s Century of Hunger, Gordon\'s Millennium of Loneliness</item>
+<item>        In Zara\'s Footsteps</item>
+<item>        A Witch\'s Homecoming</item>
+<item>        A Favor for Julius</item>
+<item>        The Golden Family</item>
+<item>        Two Things to Look for</item>
+<item>        The Challenge of the Maidens</item>
+<item>        Clash! Battle of the Magic Knight Captains!</item>
+<item>        To Tomorrow!</item>
+<item>        The Chosen Ones</item>
+<item>        Vice-Captain Langris Vaude</item>
+<item>        The 5 Spirit Guardians</item>
+<item>        Awakening Power</item>
+<item>        The Five-Leaf Clover</item>
+<item>        The Beginning of Hope and Despair</item>
+<item>Quiet Lakes and Forest Shadows</item>
+<item>The Messenger from the Spade Kingdom</item>
+<item>Zeno\'s Power</item>
+<item>The Great War Breaks Out</item>
+<item>Dante vs. The Captain of the Black Bulls</item>
+<item>Battlefield: Heart Kingdom</item>
+<item>Water Crusade</item>
+<item>	Captain Yami Sukehiro</item>
+<item>        Black Oath</item>
+<item>Stirrings of the Strongest</item>
+<item>	The Devil-Binding Ritual</item>
+<item>Faraway Future</item>
+    </string-array>
+
+    <string-array name="BlackCloverFiller">
+        <item>Path</item>
+        <item>The Secret of the Eye of the Midnight Sun</item>
+        <item>Battle to the Death?! Yami vs. Jack</item>
+        <item>Clover Clips: The Nightmarish Charmy Special!</item>
+        <item>Nero Reminisces&#8230; Part One</item>
+        <item>Nero Reminisces&#8230; Part Two</item>
+        <item>Return</item>
+        <item>A New Resolve</item>
+        <item>Those Who Have Been Gathered</item>
+        <item>The One Who Has My Heart, My Mind, and Soul</item>
+        <item>Those Remaining</item>
+        <item>The Tilted Scale</item>
+        <item>Those Who Wish to Destroy Devils</item>
+        <item>Rescue</item>
+        <item>Those Who Worship Devils</item>
+        <item>Death</item>
+        <item>Become the Light That Illuminates the Darkness</item>
+    </string-array>
+
+    <string-array name="BleachCanon">
+       <item> The Day I Became a Shinigami</item>
+<item> The Shinigami\'s Work</item>
+<item> The Older Brother\'s Wish, the Younger Sister\'s Wish</item>
+<item> Cursed Parakeet</item>
+<item> Beat the Invisible Enemy!</item>
+<item> Fight to the Death! Ichigo vs. Ichigo</item>
+<item> Greetings from a Stuffed Lion</item>
+<item> June 17, Memories in the Rain</item>
+<item> Unbeatable Enemy</item>
+<item> 	Assault on Trip at Sacred Ground!</item>
+<item> The Legendary Quincy</item>
+<item>     A Gentle Right Arm</item>
+<item> Flower and Hollow</item>
+<item> Back to Back, a Fight to the Death!</item>
+<item> Kon\'s Great Plan</item>
+<item> Encounter, Renji Abarai!</item>
+<item> 	Ichigo Dies!</item>
+<item> Reclaim! The Power of the Shinigami!</item>
+<item> Ichigo Becomes a Hollow!</item>
+<item> Gin Ichimaru\'s Shadow</item>
+<item> Enter! The World of the Shinigami</item>
+<item> The Man Who Hates Shinigami</item>
+<item> 14 Days Before Rukia\'s Execution</item>
+<item> Assemble! The 13 Divisions</item>
+<item> Penetrate the Center with an Enormous Bombshell?</item>
+<item> Formation! The Worst Tag</item>
+<item> Release the Death Blow!</item>
+<item> 	Orihime Targeted</item>
+<item> Breakthrough! The Shinigami\'s Encompassing Net</item>
+<item> Renji\'s Confrontation</item>
+<item> The Resolution to Kill</item>
+<item> 	Stars and the Stray</item>
+<item>         Tragedy of Dawn</item>
+<item> Aizen Assassinated! The Darkness Which Approaches</item>
+<item> Kenpachi Zaraki Approaches!</item>
+<item> Motive of the Fist</item>
+<item> Desperation! The Broken Zangetsu</item>
+<item> The Immortal Man</item>
+<item> The Shinigami whom Ganju Met</item>
+<item> Reunion, Ichigo and Rukia</item>
+<item> Yoruichi, Goddess of Flash, Dances!</item>
+<item> The Despicable Shinigami</item>
+<item> Ishida Ultimate Power!</item>
+<item> Overcome Your Limits!</item>
+<item> Authentic Records! School of Shinigami</item>
+<item> The Avengers</item>
+<item> Hitsugaya Roars!</item>
+<item> Rukia\'s Nightmare</item>
+<item>         Morning of the Sentence</item>
+<item> Renji, Oath of the Soul! Death Match with Byakuya</item>
+<item> Gin Ichimaru\'s Temptation, Resolution Shattered</item>
+<item> An Accomplished Oath! Get Back Rukia!</item>
+<item> 	The Strongest Shinigami! Ultimate Confrontation Between Teacher and Students</item>
+<item> Supersonic Battle! Determine the Goddess of Battle</item>
+<item> Senbonzakura, Crushed! Zangetsu Thrusts Through the Sky</item>
+<item> Unseal! The Black Blade, the Miraculous Power</item>
+<item> Conclusion of the Death Match! White Pride and Black Desire</item>
+<item> Reality of the Despair, the Assassin\'s Dagger is Swung</item>
+<item> Aizen Stands! Horrible Ambitions</item>
+<item> Gather Together! Group of the Strongest Shinigami</item>
+<item> Rukia\'s Resolution, Ichigo\'s Feelings</item>
+<item>         Ichigo and Rukia, Thoughts in the Revolving Around Heaven</item>
+<item> 	Reopening of the Substitute Business! The Terrifying Transfer Student</item>
+<item> 	Shock! The Father\'s True Identity</item>
+<item> The Commencement of War, Visoreds and the Arrancars</item>
+<item>        Prelude to the Apocalypse, The Arrancar\'s Offensive</item>
+<item> 	Reunion, Ichigo and Rukia and Soul Reapers</item>
+<item> Mission! The Soul Reapers Have Come</item>
+<item> The Evil Eye, Aizen Returns</item>
+<item> Rukia\'s Battle Commences! The Freezing White Blade</item>
+<item> Ikkaku\'s Bankai! The Power That Breaks Everything</item>
+<item> Zaraki Division\'s Secret Story! The Lucky Men</item>
+<item> Hitsugaya Scatters! The Broken Hyōrinmaru</item>
+<item> Clash! The Protector vs. The Bearer</item>
+<item> 	Visored! The Power of the Awakened</item>
+<item> Ichigo, Complete Hollowification!?</item>
+<item> Collision! Black Bankai and the White Bankai</item>
+<item> Urgent Report! Aizen\'s Terrifying Plan!</item>
+<item> 	Uryū vs. Ryūken! Clash of the Parent-Child Quincys</item>
+<item>         Urahara\'s Decision, Orihime\'s Thoughts</item>
+<item>         Hueco Mundo moves again! Hitsugaya vs. Yammy</item>
+<item> 	Ichigo vs. Grimmjow, the 11-second battle!</item>
+<item> Ulquiorra\'s Scheme, the Moment when the Sun Sets!</item>
+<item> 	Goodbye&#8230;, Kurosaki!</item>
+<item>        Strict Order! The Forbidden Rescue of Orihime Inoue</item>
+<item> Grimmjow Revived</item>
+<item> Ishida and Chad, The Quickening of a New Power</item>
+<item> The Espada Gather! Aizen\'s Royal Assembly</item>
+<item> The Name\'s Nel! The Appearance of a Strange Arrancar</item>
+<item>         Oath! Back Here Alive Again</item>
+<item> The Raging Storm! Encounter with the Dancing Arrancar</item>
+<item> 	Ichigo Strikes Back! This Is My Bankai</item>
+<item>         The Devilish Research! Szayel Aporro\'s Plan</item>
+<item> 	Rukia and Kaien, the Sorrowful Reunion</item>
+<item> Rukia Retaliates! Release the Desperate Kidō</item>
+<item> Ishida and Pesche, the United Attack of Friendship</item>
+<item> Ishida\'s Trump Card, Seele Schneider</item>
+<item> Right Arm of the Giant, Left Arm of the Devil</item>
+<item> Yasutora Sado Dies! Orihime\'s Tears</item>
+<item> Testament, Your Heart is Right Here&#8230;</item>
+<item> The Cruel Arrancar, Ulquiorra\'s Provocation</item>
+<item> 	Szayel Aporro Laughs, The Net Trapping Renji is Complete</item>
+<item> Shinigami and Quincy, The Battle with Madness</item>
+<item> Ishida\'s Strategy, 20-Second Offense and Defense</item>
+<item> The Murderous Intent Boils! The Joyful Grimmjow</item>
+<item> Desperate Effort vs. Desperate Effort! Hollowfied Ichigo</item>
+<item>       The Moment of Conclusion, The End of Grimmjow</item>
+<item>         Hueco Mundo Chapter Restart!</item>
+<item> The Frightening Banquet, Szayel Aporro Theater</item>
+<item> Nel\'s Secret, A Busty Beauty Joins the Battle!?</item>
+<item> Irresistible, Puppet Show of Terror</item>
+<item> 	Neliel\'s Past</item>
+<item> The Ultimate Union! Pesche\'s Seriousness</item>
+<item> Joining the Battle! The Strongest Soul Reaper Army Appears</item>
+<item> Byakuya\'s Bankai, The Quiet Anger</item>
+<item> The Two Scientists, Mayuri\'s Trap</item>
+<item> 	Holy Birth, The Resurrected Szayel Aporro</item>
+<item> The Hardest Body!? Cut Down Nnoitra</item>
+<item> Nnoitra Released! Multiplying Arms</item>
+<item> Fierce Fighting Conclusion! Who\'s the Strongest?</item>
+<item> Karakura Town Gathers! Aizen Versus the Soul Reapers</item>
+<item>         The Past Chapter Begins! The Truth from 110 Years Ago</item>
+<item> 12th Division\'s New Captain, Kisuke Urahara</item>
+<item> Aizen and the Genius Boy</item>
+<item> Muguruma 9th Division, Moves Out</item>
+<item> Hiyori Dies? The Beginning of Tragedy</item>
+<item> Betrayal! Aizen\'s Secret Maneuvers</item>
+<item> Rescue Hirako! Aizen vs. Urahara</item>
+<item>         Defend Karakura Town! Entire Appearance of the Shinigami</item>
+<item> Elite! The Four Shinigami</item>
+<item> Beautiful Little Devil Charlotte</item>
+<item> 	Kira, The Battle Within Despair</item>
+<item> Hisagi\'s Shikai! The Name is&#8230;</item>
+<item> Ikkaku Falls! The Shinigami\'s Crisis</item>
+<item> 	The Full Showdown! Soul Reapers vs. Espada</item>
+<item> The Most Evil Tag!? Suì-Fēng and Ōmaeda</item>
+<item> A Miraculous Body! Ggio Releases</item>
+<item> 3 vs. 1 Battle! Rangiku\'s Crisis</item>
+<item> Vice-Captains Annihilated! The Terrifying Demonic Beast</item>
+<item> 	Fierce Fighting Concludes? Towards a New Battle!</item>
+<item>         Ichigo vs. Ulquiorra, Resume</item>
+<item> Connected Hearts! The Left Fist of Certain Death</item>
+<item> 	Hatred and Jealousy, Orihime\'s Dilemma</item>
+<item> Ichigo and Uryū, Bonded Back to Back</item>
+<item>         Beginning of Despair&#8230; Ichigo, the Unreachable Blade</item>
+<item> Ichigo Dies! Orihime, the Cry of Sorrow!</item>
+<item> Ichigo vs. Ulquiorra, Conclusion!</item>
+<item> Fury of the Shark! Harribel\'s Release</item>
+<item> Hitsugaya, the Desperate Hyōten Hyakkasō!</item>
+<item> 	The Approaching Breath of Death, the King Who Rules Over Death!</item>
+<item> 	One Hit Kill, Suì-Fēng, Bankai!</item>
+<item> Climax! Kyōraku vs. Starrk!</item>
+<item> The Nightmare Returns&#8230; Revival of the Espada</item>
+<item> Hirako and Aizen&#8230;the Reunion of Fate!</item>
+<item> 	Hisagi and Tōsen, the Moment of Parting</item>
+<item> rown of Lies, Barragan\'s Grudge</item>
+<item> Power of the Soul! Los Lobos, Attack!</item>
+<item> Starrk, the Lone Battle</item>
+<item> Chain of Sacrifice, Harribel\'s Past</item>
+<item> The Hundred-Year Grudge! Hiyori\'s Revenge</item>
+<item> Ichigo\'s Return! Protect Karakura Town</item>
+<item>         The Final trump card! Ichigo, Towards the Decisive Battle</item>
+<item> Byakuya vs. Kenpachi?! The Melee Commences</item>
+<item> For the Sake of Justice?! The Man Who Deserted the Shinigami</item>
+<item> Desperate Struggle with Aizen! Hirako, Shikai!</item>
+<item> All Out War! Aizen vs. Shinigami</item>
+<item> Hitsugaya, Enraged! Blade of Hatred!</item>
+<item> Impossible to Attack? The Sealed Genryūsai!</item>
+<item> It\'s All a Trap&#8230; Engineered Bonds!</item>
+<item> The Shocking Truth&#8230;The Mysterious Power Within Ichigo!</item>
+<item> The Extending Blade?! Ichigo vs. Gin!</item>
+<item>         Urahara Appears! Stop Aizen!</item>
+<item> Ichigo Loses His Fighting Spirit!? Gin\'s Expectation!</item>
+<item> The Final Getsuga Tenshō!? Ichigo\'s Training!</item>
+<item>         For the Sake of Protecting! Ichigo vs. Tensa Zangetsu!</item>
+<item> Emergency Situation! Aizen, New Evolution!</item>
+<item> Goodbye&#8230;Rangiku</item>
+<item>Fierce Fighting Conclusion! Release, the Final Getsuga Tenshō!</item>
+<item>Ichigo\'s Resolution! The Price of the Fierce Battle</item>
+<item>        Thank You</item>
+<item>3rd Year High School Student! Dressed Up, and a New Chapter Begins!</item>
+<item>A Dispute in School?! Ichigo and Uryū, Fight Together!</item>
+<item>        	Uryū is Attacked, A Threat Draws Near the Friends!</item>
+<item>        	The Man with the Fullbring Ability: Kugo Ginjō</item>
+<item>        	A Crisis Sneaking up on the Kurosaki Family?! Ichigo\'s Confusion!</item>
+<item>        	Power of the Substitute Badge, Ichigo\'s \'Pride\'!</item>
+<item>        	Next Target, The Devil\'s Hand Aims at Orihime!</item>
+<item>        	The Man Who Killed the Shinigami Substitute?! Tsukishima Makes His Move</item>
+<item>        	Fullbring, The Detested Power!</item>
+<item>        	Tsukishima Attacks! The Training Has Been Thwarted</item>
+<item>        	Ichigo, Mastering the Fullbring!</item>
+<item>        	Ichigo vs. Ginjō! To the Game\'s Space</item>
+<item>        Friend or Foe?! Ginjō\'s True Intentions!</item>
+<item>        Tsukishima\'s Ability, the Danger is Drawing Near!</item>
+<item>        Clash!? Xcution attacks Ginjō</item>
+<item>        The Sorrowful Battle! Ichigo vs. Sado and Orihime</item>
+<item>        Ichigo vs Uryu?! Who is the Traitor?!</item>
+<item>        A New Appearance! The Gotei 13, Arrives!</item>
+<item>        Revival! Substitute Shinigami: Ichigo Kurosaki!</item>
+<item>        Fierce Fight! Shinigami vs. XCUTION!</item>
+<item>        Desperate Struggle!? Byakuya\'s Troubled Memories</item>
+<item>        Ichigo vs. Ginjō! Secret of the Substitute Badge</item>
+<item>        Changing History, Unchanging Heart</item>
+    </string-array>
+</resources>
